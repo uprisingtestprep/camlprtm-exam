@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "evaluation",
+  "front": "In forward (cell) grouping, which ABO antigens are tested for, and what does reverse (serum) grouping detect?",
+  "back": "Forward grouping tests red cells for A and B antigens using anti-A and anti-B reagents. Reverse grouping tests the plasma for anti-A and anti-B using A1 and B reagent cells. Both must agree."
+ },
+ {
+  "id": 2,
+  "domain": "evaluation",
+  "front": "Why does a person of group A have anti-B in their plasma without ever being transfused?",
+  "back": "ABO antibodies are naturally occurring, formed in early life after exposure to A and B-like antigens in bacteria and food. They are mostly IgM and react at room temperature, which is why reverse grouping works."
+ },
+ {
+  "id": 3,
+  "domain": "evaluation",
+  "front": "What is the first step when forward and reverse ABO groupings do not agree?",
+  "back": "Repeat the testing, check for clerical or specimen identification errors, and review patient history (transfusion, transplant, diagnosis, age). Then use further tests such as incubation at 4 C or enhanced reagents to resolve."
+ },
+ {
+  "id": 4,
+  "domain": "evaluation",
+  "front": "Which ABO discrepancy pattern is typical of a newborn or a hypogammaglobulinemic patient?",
+  "back": "Weak or missing reverse reactions. Neonates have not yet made their own ABO antibodies, and immunodeficient patients make too little, so the reverse group is unreliable. Rely on the forward group and history."
+ },
+ {
+  "id": 5,
+  "domain": "evaluation",
+  "front": "A patient shows extra reverse-group reactivity such as an unexpected anti-A1 or cold autoantibody. What is a useful resolution step?",
+  "back": "Incubate reverse cells at 4 C only if needed to confirm, and use a cold-reacting autoantibody workup. Pre-warming or testing with autologous control cells helps show whether the extra reaction is a cold antibody."
+ },
+ {
+  "id": 6,
+  "domain": "evaluation",
+  "front": "What is the difference between subgroup A1 and A2 red cells in terms of anti-A1 lectin reactivity?",
+  "back": "A1 cells carry many more A antigen sites and react with Dolichos biflorus lectin (anti-A1). A2 cells have fewer sites and are not agglutinated by this lectin."
+ },
+ {
+  "id": 7,
+  "domain": "evaluation",
+  "front": "Which patients can make anti-A1, and why might it cause an ABO discrepancy?",
+  "back": "Some A2 and A2B people (and a few weaker subgroups) make anti-A1 in their serum. It agglutinates A1 reverse cells, giving an unexpected reverse reaction in a patient who forward types as A or AB."
+ },
+ {
+  "id": 8,
+  "domain": "evaluation",
+  "front": "What is the Bombay (Oh) phenotype and how does it appear on routine ABO typing?",
+  "back": "Bombay red cells lack H antigen, so A and B cannot be made. Forward typing looks like group O, but reverse grouping shows anti-A, anti-B and anti-H. Cells are not agglutinated by anti-H lectin (Ulex)."
+ },
+ {
+  "id": 9,
+  "domain": "evaluation",
+  "front": "Why can Bombay individuals only receive blood from other Bombay donors?",
+  "back": "Their plasma contains potent anti-H (often IgM and clinically significant) that reacts with H on group O cells as well as A and B cells. Only H-negative (Bombay) blood is compatible."
+ },
+ {
+  "id": 10,
+  "domain": "evaluation",
+  "front": "Which antigens make up the Rh system and which is the most immunogenic after D?",
+  "back": "The main Rh antigens are D, C, c, E and e. After D, the c antigen is the next most immunogenic, so anti-c is common in alloimmunized patients."
+ },
+ {
+  "id": 11,
+  "domain": "evaluation",
+  "front": "What is the most probable Rh genotype of a person whose cells are D+, C+, c+, E-, e+?",
+  "back": "Most probably R1r (DCe/dce). The most common D-positive haplotype in white populations is R1 (DCe), and the c+ result with e+ and no E fits this pairing. Genotype is a probability, not proof."
+ },
+ {
+  "id": 12,
+  "domain": "evaluation",
+  "front": "What is the clinical meaning of the term Rh null?",
+  "back": "Rh null red cells lack all Rh antigens. They show mild hemolytic anemia and stomatocytes, and the person can form anti-Rh29, which makes finding compatible blood very difficult."
+ },
+ {
+  "id": 13,
+  "domain": "evaluation",
+  "front": "How does weak D differ from partial D in terms of risk of anti-D formation?",
+  "back": "Weak D has reduced antigen density but all D epitopes, so most weak D patients can safely receive D-positive blood. Partial D lacks some epitopes and the person can make anti-D to the missing parts."
+ },
+ {
+  "id": 14,
+  "domain": "evaluation",
+  "front": "When is testing for weak D routinely done on a blood donor sample, and how is the donor labelled?",
+  "back": "Donor units that type D-negative on direct testing are tested further for weak D by the indirect antiglobulin test. If positive, the unit is labelled D-positive because it can immunize D-negative recipients."
+ },
+ {
+  "id": 15,
+  "domain": "evaluation",
+  "front": "For a D-negative woman of childbearing age who types as weak D, which policy do many Canadian labs follow?",
+  "back": "Many labs treat a female patient with a serologic weak D as D-negative for transfusion and RhIG decisions, unless molecular testing shows a weak D type unlikely to form anti-D. Follow the local policy."
+ },
+ {
+  "id": 16,
+  "domain": "evaluation",
+  "front": "What dose of Rh immune globulin does a standard 300 ug vial protect against?",
+  "back": "One 300 ug vial covers about 30 mL of fetal whole blood, or 15 mL of fetal red cells. It is given to D-negative mothers after delivery of a D-positive baby."
+ },
+ {
+  "id": 17,
+  "domain": "evaluation",
+  "front": "When is a Kleihauer-Betke test or flow cytometry done after delivery of a D-positive baby to a D-negative mother?",
+  "back": "A screening test (such as rosette) is done first. If positive, the KB or flow cytometry quantifies the fetal-maternal hemorrhage so the number of RhIG doses can be calculated."
+ },
+ {
+  "id": 18,
+  "domain": "evaluation",
+  "front": "How is the number of RhIG vials calculated after a fetomaternal hemorrhage is quantified?",
+  "back": "Divide the volume of fetal whole blood by 30 mL to get vials, then round and add one vial for safety. Example: a 45 mL hemorrhage gives 1.5, so 2 plus 1 equals 3 vials."
+ },
+ {
+  "id": 19,
+  "domain": "evaluation",
+  "front": "Which Kell system antibody is clinically significant and how does Kell antigen differ from most blood group antigens in immunogenicity?",
+  "back": "Anti-K is clinically significant and can cause transfusion reactions and hemolytic disease of the newborn. K is the most immunogenic antigen after ABO and D, so K-negative blood is selected for K-negative patients."
+ },
+ {
+  "id": 20,
+  "domain": "evaluation",
+  "front": "Why do enzymes such as ficin destroy Duffy and MNS antigens, and what does this mean for antibody identification?",
+  "back": "Proteolytic enzymes cleave Fya, Fyb, M, N, S and s on the red cell. Antibodies to these antigens are not detected with enzyme-treated cells, so enzyme panels help separate them from Rh, Kidd and Lewis antibodies."
+ },
+ {
+  "id": 21,
+  "domain": "evaluation",
+  "front": "Which blood group antibodies are known for causing delayed hemolytic transfusion reactions because of falling titres?",
+  "back": "Anti-Jka and anti-Jkb of the Kidd system. Titres drop in the recipient to undetectable levels, but a transfusion triggers an anamnestic response that causes delayed extravascular hemolysis."
+ },
+ {
+  "id": 22,
+  "domain": "evaluation",
+  "front": "Why are Lewis antibodies usually considered clinically insignificant for transfusion?",
+  "back": "Lewis antigens are soluble plasma glycolipids adsorbed onto the red cell, not intrinsic membrane antigens. Anti-Lea and anti-Leb are mostly IgM, react at room temperature, and Lewis antigens on donor cells are neutralized by recipient plasma."
+ },
+ {
+  "id": 23,
+  "domain": "evaluation",
+  "front": "Which P system antibody can cause the Donath-Landsteiner biphasic hemolysin in paroxysmal cold hemoglobinuria?",
+  "back": "Autoanti-P, an IgG antibody that binds red cells in the cold and activates complement on warming to 37 C. It is a pathologic exception to the rule that P system antibodies are benign."
+ },
+ {
+  "id": 24,
+  "domain": "evaluation",
+  "front": "What features make an antibody clinically significant for transfusion, and what is the typical thermal range?",
+  "back": "Clinically significant antibodies are usually IgG, react at 37 C and the antiglobulin phase, and can cause hemolysis. Cold-reacting IgM antibodies active only below 30 C are usually not significant."
+ },
+ {
+  "id": 25,
+  "domain": "evaluation",
+  "front": "An antibody screen is positive with all screening cells reacting equally and the autocontrol is negative. What does this pattern suggest?",
+  "back": "Equal reactivity on all cells with a negative autocontrol suggests an antibody to a high-prevalence antigen, or multiple alloantibodies. Proceed to a full identification panel and test reagent-matched antigen-negative cells."
+ },
+ {
+  "id": 26,
+  "domain": "evaluation",
+  "front": "A patient has a positive antibody screen. What is the first step before issuing crossmatch-compatible blood?",
+  "back": "Identify the antibody with a panel, then select donor units that are antigen-negative for any clinically significant antibody and crossmatch by the antiglobulin method. Review the patient's history and records first."
+ },
+ {
+  "id": 27,
+  "domain": "evaluation",
+  "front": "Why is the phase of reaction (immediate spin, 37 C, AHG) useful when interpreting a positive screen?",
+  "back": "Reactions only at immediate spin or room temperature suggest cold-reacting IgM antibodies, often clinically insignificant. Reactions at 37 C or AHG suggest IgG antibodies, which are more likely to be clinically significant."
+ },
+ {
+  "id": 28,
+  "domain": "evaluation",
+  "front": "In antibody identification, what does rule-out (exclusion) mean when using a panel?",
+  "back": "A specific antibody is ruled out when a cell showing homozygous (double-dose) expression of the matching antigen is nonreactive. Heterozygous cells are used with caution because of possible dosage effect."
+ },
+ {
+  "id": 29,
+  "domain": "evaluation",
+  "front": "What is the 3 and 3 rule when confirming an antibody specificity?",
+  "back": "Confirm with at least 3 antigen-positive cells that react and at least 3 antigen-negative cells that do not react. This gives p of 0.05 or less that the match is due to chance."
+ },
+ {
+  "id": 30,
+  "domain": "evaluation",
+  "front": "On a panel, how do you rule in a probable antibody specificity?",
+  "back": "Look for antigens present on every reactive cell and absent on nonreactive cells. Compare the reaction pattern with the antigram, then confirm with the 3 and 3 rule and by testing the patient's red cells as antigen-negative."
+ },
+ {
+  "id": 31,
+  "domain": "evaluation",
+  "front": "After identifying an alloantibody, why must the patient's own red cells be phenotyped for that antigen?",
+  "back": "A patient cannot make an alloantibody to an antigen they carry. An antigen-negative phenotype supports the identification, while a positive result suggests an autoantibody or a mistake. Do not phenotype recently transfused patients without caution."
+ },
+ {
+  "id": 32,
+  "domain": "evaluation",
+  "front": "A panel shows reactions that do not fit one antibody pattern. What should you suspect and how can you proceed?",
+  "back": "Suspect multiple antibodies. Use selected cells that are positive for one antigen and negative for the others, apply enzyme-treated cells to destroy certain antigens, or use differential adsorption to separate the specificities."
+ },
+ {
+  "id": 33,
+  "domain": "evaluation",
+  "front": "How can enzyme-treated panel cells help separate two antibodies, such as anti-Fya with anti-E?",
+  "back": "Ficin or papain destroys Duffy (Fya, Fyb) antigens but enhances Rh antigens. Anti-Fya will no longer react with treated cells, while anti-E still reacts, so the two can be told apart."
+ },
+ {
+  "id": 34,
+  "domain": "evaluation",
+  "front": "Which type of antibody reacts with nearly every random donor unit and every panel cell, including some patients' own red cells?",
+  "back": "An antibody to a high-prevalence antigen (for example anti-k or anti-Kpb) reacts with almost all donors. Finding compatible blood requires rare antigen-negative units, often via the blood supplier's rare donor program."
+ },
+ {
+  "id": 35,
+  "domain": "evaluation",
+  "front": "A patient has anti-k (Cellano), a high-prevalence antibody. Why is finding compatible blood difficult?",
+  "back": "About 99.8% of donors are k-positive, so only roughly 1 in 500 units would be compatible. Use the blood supplier's rare donor program and consider autologous donation or family testing."
+ },
+ {
+  "id": 36,
+  "domain": "evaluation",
+  "front": "What clue points to an antibody against a low-prevalence antigen when the screen is negative?",
+  "back": "A negative screen with an incompatible crossmatch against one donor unit suggests an antibody to a low-prevalence antigen not present on screening cells (for example anti-Kpa). The incompatible unit is simply avoided."
+ },
+ {
+  "id": 37,
+  "domain": "evaluation",
+  "front": "In a patient with warm autoimmune hemolytic anemia, what does a positive autocontrol (and DAT) tell you?",
+  "back": "The patient's own red cells are coated with IgG, usually a warm autoantibody. The serum often reacts with all panel cells at 37 C or AHG, which can mask underlying clinically significant alloantibodies."
+ },
+ {
+  "id": 38,
+  "domain": "evaluation",
+  "front": "How do you find hidden alloantibodies in serum containing a warm autoantibody?",
+  "back": "Remove the autoantibody by adsorption using the patient's own red cells (autoadsorption) when not recently transfused, or by differential allogeneic adsorption with phenotype-selected cells, then retest the adsorbed serum with a panel."
+ },
+ {
+  "id": 39,
+  "domain": "evaluation",
+  "front": "Why should autoadsorption not be done on a recently transfused patient?",
+  "back": "The patient's red cell sample may contain transfused donor cells. These can adsorb out true alloantibodies and give a false negative result. Use allogeneic adsorption with cells of known phenotype instead."
+ },
+ {
+  "id": 40,
+  "domain": "evaluation",
+  "front": "What is the main clinical concern when warm autoantibody serum is the only workup done and no adsorption is performed?",
+  "back": "Underlying alloantibodies can be missed. A delayed hemolytic reaction can follow transfusion of antigen-positive blood. Adsorption studies, or phenotype-matched units, reduce this risk."
+ },
+ {
+  "id": 41,
+  "domain": "evaluation",
+  "front": "What is the typical specificity of cold agglutinins in cold agglutinin disease and mycoplasma infection?",
+  "back": "Anti-I is the most common specificity in cold agglutinin disease and after Mycoplasma pneumoniae infection. Infectious mononucleosis is more often linked with anti-i. Both are IgM antibodies reacting best at 4 C."
+ },
+ {
+  "id": 42,
+  "domain": "evaluation",
+  "front": "What is the purpose of prewarming a cold-reactive specimen and testing at 37 C only?",
+  "back": "Prewarming serum and cells to 37 C and using a 37 C-only AHG test avoids detecting cold autoantibodies that react below body temperature, so any clinically significant IgG alloantibodies can be seen."
+ },
+ {
+  "id": 43,
+  "domain": "evaluation",
+  "front": "What does the thermal amplitude of a cold agglutinin tell you about clinical significance?",
+  "back": "Cold agglutinins that react at 30 C or 37 C (wide thermal amplitude) can cause hemolysis in vivo. Those reacting only at 4 C are rarely significant. Keep the patient and any transfused blood warm."
+ },
+ {
+  "id": 44,
+  "domain": "evaluation",
+  "front": "In a DAT workup, what do polyspecific AHG reagents detect, and what is the next step after a positive result?",
+  "back": "Polyspecific AHG detects both IgG and complement (C3d) on red cells. A positive DAT is followed by monospecific anti-IgG and anti-C3 reagents to determine which protein is bound, with an eluate if needed."
+ },
+ {
+  "id": 45,
+  "domain": "evaluation",
+  "front": "Name three common causes of a positive DAT.",
+  "back": "Autoimmune hemolytic anemia, hemolytic disease of the fetus and newborn, delayed or acute hemolytic transfusion reactions, and drug-induced antibodies. A positive DAT alone does not prove hemolysis; check clinical and lab evidence."
+ },
+ {
+  "id": 46,
+  "domain": "evaluation",
+  "front": "How does the drug-induced immune hemolysis mechanism with penicillin differ from methyldopa?",
+  "back": "Penicillin acts as a hapten bound to the red cell, causing IgG drug-dependent antibody to coat cells, so the DAT is positive for IgG. Methyldopa induces true autoantibodies, so reactivity can resemble warm AIHA."
+ },
+ {
+  "id": 47,
+  "domain": "evaluation",
+  "front": "Why does dosage effect matter when an antibody is ruled out with a panel?",
+  "back": "Some antibodies (Rh, Kidd, Duffy, MNS) react more strongly with cells carrying a double dose of the antigen. A weak antibody can miss heterozygous cells, giving a false exclusion, so rule out using homozygous cells only."
+ },
+ {
+  "id": 48,
+  "domain": "evaluation",
+  "front": "Rouleaux can mimic agglutination in the lab. How can you tell it from true agglutination?",
+  "back": "Rouleaux look like stacks of coins on microscopy and disperse after adding saline (saline replacement technique). True agglutination persists. Causes include high protein, as in myeloma or elevated fibrinogen."
+ },
+ {
+  "id": 49,
+  "domain": "evaluation",
+  "front": "A cold-reactive pseudo-agglutination is seen with all cells including the autocontrol. What technique helps tell it from an alloantibody?",
+  "back": "Repeat the test at 37 C after prewarming, and use saline-washed cells. Cold agglutinins and rouleaux fall away, while a true IgG alloantibody still reacts at 37 C or in the antiglobulin phase."
+ },
+ {
+  "id": 50,
+  "domain": "evaluation",
+  "front": "What does an immediate spin crossmatch detect, and what is the reaction read for?",
+  "back": "It detects ABO incompatibility between patient serum and donor red cells. Mix, centrifuge immediately and read for hemolysis or agglutination. Any hemolysis or agglutination means incompatible."
+ },
+ {
+  "id": 51,
+  "domain": "evaluation",
+  "front": "What conditions must be met before an electronic crossmatch can replace a serologic crossmatch?",
+  "back": "Two ABO group determinations on the patient (current sample plus a historical record or second sample), a negative antibody screen, no history of clinically significant antibodies, and a validated computer system that blocks ABO-incompatible issue."
+ },
+ {
+  "id": 52,
+  "domain": "evaluation",
+  "front": "When is an antiglobulin (AHG) crossmatch required with a patient who has a clinically significant antibody?",
+  "back": "When the patient has a current or historical clinically significant antibody, the donor unit is typed antigen-negative and then crossmatched through the AHG phase to confirm compatibility, since an immediate spin or electronic crossmatch is not enough."
+ },
+ {
+  "id": 53,
+  "domain": "evaluation",
+  "front": "A crossmatch is incompatible but the antibody screen is negative. What do you check first?",
+  "back": "Check for clerical error first: patient and sample identification, donor unit group and label. Then repeat the ABO/Rh, run a patient DAT and autocontrol, and repeat the crossmatch on the segment."
+ },
+ {
+  "id": 54,
+  "domain": "evaluation",
+  "front": "Incompatible crossmatch, negative screen, negative autocontrol: what is the most likely explanation?",
+  "back": "An antibody to a low-prevalence antigen present on the donor cells only, since screening cells lack that antigen. Also consider a positive DAT on the donor unit. Select another unit and identify the antibody."
+ },
+ {
+  "id": 55,
+  "domain": "evaluation",
+  "front": "How does ABO hemolytic disease of the newborn typically present compared with Rh disease?",
+  "back": "Usually mild: mother group O, infant group A or B, caused by IgG anti-A,B crossing the placenta. It can occur in a first pregnancy, and the cord DAT is often weakly positive or even negative."
+ },
+ {
+  "id": 56,
+  "domain": "evaluation",
+  "front": "Why is anti-D HDFN generally more severe than ABO HDFN, and what pattern does it follow?",
+  "back": "Anti-D is IgG against a strongly immunogenic antigen present on fetal red cells, so it needs prior sensitization. Severity usually worsens with each subsequent D-positive pregnancy and the cord DAT is strongly positive."
+ },
+ {
+  "id": 57,
+  "domain": "evaluation",
+  "front": "Why can anti-K cause fetal anemia even when hemolysis markers such as bilirubin look modest?",
+  "back": "Anti-K suppresses erythroid precursors in the fetus as well as destroying red cells, so anemia can be severe with little hyperbilirubinemia. Titres also predict severity less reliably, so monitoring starts earlier."
+ },
+ {
+  "id": 58,
+  "domain": "evaluation",
+  "front": "What does a positive cord blood DAT indicate, and which antibody class is usually responsible?",
+  "back": "The infant red cells are coated with maternal IgG, which suggests HDFN. It does not alone prove disease severity, and ABO cases are often only weakly positive."
+ },
+ {
+  "id": 59,
+  "domain": "evaluation",
+  "front": "Why is only a forward ABO group performed on an infant under four months of age?",
+  "back": "Infants do not yet make their own anti-A or anti-B. Any ABO antibodies in the plasma are maternal IgG, so a reverse group is not valid and is omitted from the interpretation."
+ },
+ {
+  "id": 60,
+  "domain": "evaluation",
+  "front": "Why must cord blood red cells be washed thoroughly before the direct antiglobulin test?",
+  "back": "Wharton's jelly contaminating the cord sample can cause false agglutination and a false positive DAT. Washing the cells at least four times removes it, and the saline must be fully removed before AHG."
+ },
+ {
+  "id": 61,
+  "domain": "evaluation",
+  "front": "Which red cell selection rules apply to an intrauterine transfusion?",
+  "back": "Group O (or compatible with both mother and fetus), negative for the antigen matching the maternal antibody, crossmatch compatible with maternal serum, and kept fresh with a high hematocrit."
+ },
+ {
+  "id": 62,
+  "domain": "evaluation",
+  "front": "Why are red cells for intrauterine and neonatal transfusion irradiated?",
+  "back": "To prevent transfusion-associated graft-versus-host disease. Fetuses and neonates have immature immune systems, and irradiation inactivates donor lymphocytes without harming red cell function in a meaningful way."
+ },
+ {
+  "id": 63,
+  "domain": "evaluation",
+  "front": "What makes a unit CMV-safe for an intrauterine or neonatal recipient?",
+  "back": "The unit is either from a CMV-seronegative donor or leukoreduced. Both reduce the risk of transmitting cytomegalovirus, which can cause serious disease in a fetus or a low-birth-weight neonate."
+ },
+ {
+  "id": 64,
+  "domain": "evaluation",
+  "front": "What is a critical antibody titre in prenatal testing, and who sets it?",
+  "back": "It is the titre above which the risk of severe HDFN is significant and fetal assessment begins. The value is lab-defined (commonly 16 to 32 for anti-D by AHG), so follow your local policy."
+ },
+ {
+  "id": 65,
+  "domain": "evaluation",
+  "front": "Which non-invasive test follows a titre at or above the critical level, and what finding suggests fetal anemia?",
+  "back": "Middle cerebral artery Doppler ultrasound. A peak systolic velocity above 1.5 multiples of the median suggests moderate to severe fetal anemia and may lead to cordocentesis and intrauterine transfusion."
+ },
+ {
+  "id": 66,
+  "domain": "evaluation",
+  "front": "What are the typical signs of an acute hemolytic transfusion reaction?",
+  "back": "Fever, chills, flank or infusion site pain, hypotension, hemoglobinuria and dark urine, and possibly oozing from DIC. Signs can start within minutes of starting the transfusion, and anesthetized patients may only show bleeding or hypotension."
+ },
+ {
+  "id": 67,
+  "domain": "evaluation",
+  "front": "What are the immediate actions when an acute hemolytic transfusion reaction is suspected?",
+  "back": "Stop the transfusion, keep the IV open with normal saline, recheck patient and unit identification at the bedside, and notify the physician and the transfusion service at once."
+ },
+ {
+  "id": 68,
+  "domain": "evaluation",
+  "front": "What does the laboratory investigation of a suspected acute hemolytic reaction include?",
+  "back": "A clerical check, visual inspection of post-transfusion plasma for hemolysis, repeat ABO/Rh on pre- and post-samples, a post-transfusion DAT, and repeat crossmatch. Add bilirubin, haptoglobin and urine hemoglobin."
+ },
+ {
+  "id": 69,
+  "domain": "evaluation",
+  "front": "What causes a delayed hemolytic transfusion reaction, and when does it usually appear?",
+  "back": "An anamnestic response in a previously sensitized patient whose antibody was too low to detect pre-transfusion. Hemolysis appears about 3 to 14 days later, with a falling hemoglobin and a positive DAT, often from Kidd or Rh antibodies."
+ },
+ {
+  "id": 70,
+  "domain": "evaluation",
+  "front": "How does a delayed serologic transfusion reaction differ from a delayed hemolytic reaction?",
+  "back": "Both show a new red cell antibody and a positive DAT after transfusion, but in a delayed serologic reaction there is no clinical or laboratory evidence of accelerated red cell destruction."
+ },
+ {
+  "id": 71,
+  "domain": "evaluation",
+  "front": "How is a febrile non-hemolytic transfusion reaction defined, and why is it a diagnosis of exclusion?",
+  "back": "A temperature rise of 1 C or more to 38 C or above, often with chills, with no other cause. Acute hemolysis and bacterial contamination must be ruled out first because they present the same way."
+ },
+ {
+  "id": 72,
+  "domain": "evaluation",
+  "front": "Which sign pattern during a fever reaction should make you suspect bacterial contamination of the unit?",
+  "back": "High fever with rigors and hypotension, especially with platelets. Stop the transfusion, culture the unit and the patient, perform a Gram stain, and report quickly to the supplier."
+ },
+ {
+  "id": 73,
+  "domain": "evaluation",
+  "front": "How should a mild allergic reaction with only urticaria be managed, compared with anaphylaxis?",
+  "back": "Mild urticaria: pause, give an antihistamine, and the transfusion may resume if symptoms resolve. Anaphylaxis (airway or hypotension involvement): stop permanently, give epinephrine, and investigate."
+ },
+ {
+  "id": 74,
+  "domain": "evaluation",
+  "front": "Why can an IgA-deficient recipient have anaphylaxis, and what components are safer?",
+  "back": "The patient may have anti-IgA that reacts with IgA in donor plasma. Safer options are washed red cells and platelets, or products from IgA-deficient donors."
+ },
+ {
+  "id": 75,
+  "domain": "evaluation",
+  "front": "Which features point to TRALI rather than TACO in a patient with respiratory distress after transfusion?",
+  "back": "Acute hypoxemia with bilateral infiltrates within 6 hours, normal or low blood pressure, possible fever, and no rise in BNP. Donor anti-HLA or anti-HNA antibodies are often involved."
+ },
+ {
+  "id": 76,
+  "domain": "evaluation",
+  "front": "Which findings favour TACO over TRALI?",
+  "back": "Hypertension, jugular venous distension, a positive fluid balance and a raised BNP (post-transfusion level above 1.5 times the pre-transfusion level). Symptoms improve with diuretics."
+ },
+ {
+  "id": 77,
+  "domain": "evaluation",
+  "front": "What is transfusion-associated dyspnea (TAD)?",
+  "back": "Respiratory distress within 24 hours of transfusion that meets neither TRALI nor TACO criteria and is not explained by the patient's underlying condition. It is a diagnosis of exclusion."
+ },
+ {
+  "id": 78,
+  "domain": "evaluation",
+  "front": "What should the laboratory do when TRALI is suspected?",
+  "back": "Notify the blood supplier at once so the donor can be investigated for HLA and HNA antibodies. Co-components from the same donation are quarantined, and implicated donors are restricted from plasma-rich donations."
+ },
+ {
+  "id": 79,
+  "domain": "evaluation",
+  "front": "Which blood component is most often linked to bacterial sepsis reactions, and why?",
+  "back": "Platelets. They are stored at 20 to 24 C with agitation, which supports bacterial growth. Red cells stored at 1 to 6 C are less often involved, but cold-tolerant organisms such as Yersinia can grow in them."
+ },
+ {
+  "id": 80,
+  "domain": "evaluation",
+  "front": "What are the first actions for a suspected septic transfusion reaction?",
+  "back": "Stop the transfusion and keep the line open with saline. Send the bag and administration set to the laboratory for Gram stain and culture, and draw patient blood cultures from a different site."
+ },
+ {
+  "id": 81,
+  "domain": "evaluation",
+  "front": "What is the first step of a transfusion reaction investigation in the laboratory?",
+  "back": "The clerical check: compare the patient identification, the unit label and the requisition against laboratory records. This detects a misidentification error that could mean another patient is also at risk."
+ },
+ {
+  "id": 82,
+  "domain": "evaluation",
+  "front": "What does the visual hemolysis check compare, and what does a positive result suggest?",
+  "back": "Plasma of the post-transfusion sample is compared with the pre-transfusion sample. Pink or red plasma only in the post sample suggests intravascular hemolysis, for example from an ABO incompatible transfusion."
+ },
+ {
+  "id": 83,
+  "domain": "evaluation",
+  "front": "Why are the ABO and Rh typing and the DAT repeated on the post-transfusion sample?",
+  "back": "To detect an ABO error or red cell incompatibility. A positive DAT, especially with mixed-field agglutination, points to incompatible donor red cells coating the patient's cells. Compare with the pre-transfusion sample."
+ },
+ {
+  "id": 84,
+  "domain": "evaluation",
+  "front": "What is a transfusion near miss, and why is it reported?",
+  "back": "An error caught before the transfusion that could have led to a wrong transfusion, such as a mislabelled sample. Reporting lets the transfusion service find root causes and correct the process before a patient is harmed."
+ },
+ {
+  "id": 85,
+  "domain": "evaluation",
+  "front": "Where are serious transfusion reactions reported in Canada?",
+  "back": "To the hospital transfusion service and the blood supplier (Canadian Blood Services or Hema-Quebec), and to the Public Health Agency of Canada through the TTISS surveillance system. Reporting triggers donor and co-component follow-up."
+ },
+ {
+  "id": 86,
+  "domain": "evaluation",
+  "front": "What causes transfusion-associated graft-versus-host disease (TA-GVHD)?",
+  "back": "Viable donor T lymphocytes engraft in an at-risk recipient and attack recipient tissues. Fever, rash, diarrhea, liver injury and pancytopenia appear 1 to 6 weeks after transfusion, and the disease is almost always fatal."
+ },
+ {
+  "id": 87,
+  "domain": "evaluation",
+  "front": "What is the usual radiation dose for irradiating cellular blood components?",
+  "back": "A minimum of 25 Gy to the central part of the container, with no part receiving less than 15 Gy. Leukoreduction alone does not prevent TA-GVHD."
+ },
+ {
+  "id": 88,
+  "domain": "evaluation",
+  "front": "Name common indications for irradiated cellular components.",
+  "back": "Intrauterine transfusion, hematopoietic stem cell transplant recipients, congenital cellular immunodeficiency, directed donations from blood relatives, HLA-matched platelets, and patients treated with purine analogues such as fludarabine."
+ },
+ {
+  "id": 89,
+  "domain": "evaluation",
+  "front": "How is platelet refractoriness commonly defined?",
+  "back": "Repeated poor platelet count increments after ABO-compatible, fresh platelet transfusions, for example a one-hour corrected count increment below 7.5 on two consecutive transfusions."
+ },
+ {
+  "id": 90,
+  "domain": "evaluation",
+  "front": "Which causes of platelet refractoriness are more common: immune or non-immune?",
+  "back": "Non-immune causes, such as fever, sepsis, splenomegaly, DIC and some drugs. Rule these out first. The main immune cause is anti-HLA class I antibody, and anti-HPA antibodies are a less common cause."
+ },
+ {
+  "id": 91,
+  "domain": "evaluation",
+  "front": "How are matched platelets chosen for an alloimmunized refractory patient?",
+  "back": "Identify the antibody specificity (HLA or HPA). Then select HLA-compatible or antigen-negative apheresis donors, or use a platelet crossmatch to find compatible units. Anti-HPA-1a needs HPA-1a negative platelets."
+ },
+ {
+  "id": 92,
+  "domain": "evaluation",
+  "front": "What does leukoreduction of red cells achieve?",
+  "back": "Fewer than 5 x 10^6 leukocytes per unit. It lowers febrile non-hemolytic reactions, HLA alloimmunization and the risk of CMV transmission, but it does not replace irradiation."
+ },
+ {
+  "id": 93,
+  "domain": "evaluation",
+  "front": "When are washed red cells indicated?",
+  "back": "For patients with anti-IgA or recurrent severe allergic reactions to plasma proteins. Washing removes plasma, but an open system shortens the shelf life to 24 hours, so units are made close to use."
+ },
+ {
+  "id": 94,
+  "domain": "evaluation",
+  "front": "What is the difference between fresh frozen plasma and plasma frozen within 24 hours?",
+  "back": "Fresh frozen plasma is frozen within 8 hours of collection, while plasma frozen within 24 hours is frozen later and has somewhat lower factor VIII. Both are stored at minus 18 C or colder and thawed at 30 to 37 C."
+ },
+ {
+  "id": 95,
+  "domain": "evaluation",
+  "front": "What is cryoprecipitate and what does it contain?",
+  "back": "The cold-insoluble fraction of thawed plasma. It is rich in fibrinogen, factor VIII, von Willebrand factor, factor XIII and fibronectin, and is used mainly to treat low fibrinogen. Cryoprecipitate-reduced plasma lacks these and is used in plasma exchange for TTP."
+ },
+ {
+  "id": 96,
+  "domain": "evaluation",
+  "front": "How are platelet components stored and for how long?",
+  "back": "At 20 to 24 C with continuous gentle agitation. In Canada the shelf life is up to 7 days when bacterial testing or other mitigation is in place."
+ },
+ {
+  "id": 97,
+  "domain": "evaluation",
+  "front": "How is the corrected count increment (CCI) calculated?",
+  "back": "CCI = (post count minus pre count in x10^9/L) x body surface area in m2, divided by platelets transfused in units of 10^11. A one-hour CCI of 7.5 or more is generally considered adequate."
+ },
+ {
+  "id": 98,
+  "domain": "evaluation",
+  "front": "What are the usual requirements for a granulocyte transfusion?",
+  "back": "ABO and red cell crossmatch compatibility with the patient, irradiation, and transfusion as soon as possible after collection, within 24 hours. Used for severe neutropenia with infection not responding to antimicrobials."
+ },
+ {
+  "id": 99,
+  "domain": "evaluation",
+  "front": "When are CMV-safe components used, and what makes a component CMV-safe?",
+  "back": "For intrauterine transfusion, low-birth-weight neonates, and some CMV-seronegative pregnant or transplant patients. Components are from CMV-seronegative donors or are leukoreduced, depending on local policy."
+ },
+ {
+  "id": 100,
+  "domain": "evaluation",
+  "front": "Which ABO groups of red cells can a group A recipient safely receive?",
+  "back": "Group A or group O red cells. Red cell compatibility depends on the recipient's plasma antibodies: group A plasma has anti-B, so B and AB red cells must be avoided."
+ },
+ {
+  "id": 101,
+  "domain": "evaluation",
+  "front": "Which plasma groups can be given to a group B recipient?",
+  "back": "Group B or group AB plasma. Plasma compatibility is the reverse of red cells: donor plasma must not contain antibodies against the recipient's red cell antigens. Group AB plasma has neither anti-A nor anti-B."
+ },
+ {
+  "id": 102,
+  "domain": "evaluation",
+  "front": "How do platelets and cryoprecipitate differ from red cells in ABO and Rh selection?",
+  "back": "Platelets and cryo are not strictly ABO or Rh matched. ABO-identical platelets are preferred for better increments. Rh-negative girls and women of childbearing potential should get Rh-negative platelets, or Rh immune globulin if Rh-positive are given."
+ },
+ {
+  "id": 103,
+  "domain": "evaluation",
+  "front": "What is the usual plasma to red cell ratio goal in a massive transfusion protocol?",
+  "back": "A balanced approach near 1:1:1 (red cells, plasma, platelets), or roughly 1:1 red cells to plasma, as set by the hospital protocol. Early balanced ratios reduce dilutional coagulopathy compared with red cells alone."
+ },
+ {
+  "id": 104,
+  "domain": "evaluation",
+  "front": "In a massive transfusion, when may Rh-positive red cells be given to an Rh-negative patient?",
+  "back": "When Rh-negative inventory is short, usually for males and women past childbearing age, under medical director approval. The risk of anti-D formation is accepted to preserve Rh-negative units for girls and women of childbearing potential."
+ },
+ {
+  "id": 105,
+  "domain": "evaluation",
+  "front": "Why do many laboratories switch to group-specific red cells after a massive transfusion?",
+  "back": "Once the patient has received many group O units, a valid ABO type can be hard to obtain. After a confirmed type on a pretransfusion sample, switching to group-specific units conserves group O inventory, per the protocol's criteria."
+ },
+ {
+  "id": 106,
+  "domain": "evaluation",
+  "front": "Which red cells and plasma are used for emergency release when the patient's ABO group is unknown?",
+  "back": "Group O red cells (Rh-negative for girls and women of childbearing potential, otherwise Rh-positive may be used) and group AB plasma, or low-titre group A plasma where the hospital policy allows. These carry the lowest ABO incompatibility risk."
+ },
+ {
+  "id": 107,
+  "domain": "evaluation",
+  "front": "What documentation is needed before issuing uncrossmatched blood in an emergency?",
+  "back": "A signed physician statement that the clinical need is urgent enough to risk uncrossmatched units. The lab then completes the group, screen and crossmatch retrospectively and tells the physician at once if any incompatibility is found."
+ },
+ {
+  "id": 108,
+  "domain": "evaluation",
+  "front": "A patient has a history of anti-Kell. How are red cells selected for later transfusions?",
+  "back": "Select antigen-negative (K-negative) units even when the current screen is negative, because antibody levels can fall below detection. Confirm by antiglobulin crossmatch. Record the history so the alert stays on the patient file."
+ },
+ {
+  "id": 109,
+  "domain": "evaluation",
+  "front": "Roughly how often is a random donor unit negative for the antigen when a patient has anti-E?",
+  "back": "About 70 percent of donors are E-negative, so finding units is easy. Screening a few units with commercial antisera and crossmatching those that are negative is the usual approach for a single common antibody."
+ },
+ {
+  "id": 110,
+  "domain": "evaluation",
+  "front": "Why must antigen-negative blood still be selected after an antibody becomes undetectable?",
+  "back": "Antibody levels can drop below the detection limit, but memory B cells respond fast to re-exposure. A delayed hemolytic transfusion reaction can follow, usually within days, so records of past clinically significant antibodies must be honoured."
+ },
+ {
+  "id": 111,
+  "domain": "evaluation",
+  "front": "Why are sickle cell patients often given phenotype-matched red cells?",
+  "back": "They are frequently transfused long term and alloimmunize readily. Matching for Rh (C, E) and K, and often Fy and Jk antigens, reduces alloantibody formation, which is a major cause of delayed transfusion reactions in this group."
+ },
+ {
+  "id": 112,
+  "domain": "evaluation",
+  "front": "Which donor characteristic is often preferred for red cells given to sickle cell patients?",
+  "back": "Sickle-negative donor units are tested or documented where possible, and fresh, leukoreduced, phenotype-matched units are favoured. The aim is better red cell survival and fewer alloantibodies and febrile reactions."
+ },
+ {
+  "id": 113,
+  "domain": "evaluation",
+  "front": "A group A recipient gets a stem cell transplant from a group O donor (major mismatch). What red cells and plasma are given after engraftment starts?",
+  "back": "Red cells: group O. Plasma: group A, the recipient group, since the donor's group O cells make no A or B antigens to be attacked. Platelets: group A or compatible group AB, per transplant service protocol."
+ },
+ {
+  "id": 114,
+  "domain": "evaluation",
+  "front": "A group O recipient receives a group A stem cell graft (minor mismatch). Which red cells are given?",
+  "back": "Group O red cells, the recipient group, for all transfusions until the recipient's plasma antibodies change. Donor lymphocytes may make anti-A, so group A red cells would be at risk of hemolysis."
+ },
+ {
+  "id": 115,
+  "domain": "evaluation",
+  "front": "What is passenger lymphocyte syndrome after solid organ transplant?",
+  "back": "Donor B lymphocytes in the graft, from an ABO-minor mismatch (for example group O donor to group A recipient), make anti-A or anti-B and cause hemolysis of recipient red cells, typically 5 to 15 days after transplant."
+ },
+ {
+  "id": 116,
+  "domain": "evaluation",
+  "front": "Which red cells are selected for a group A recipient with a group O kidney or liver graft showing passenger lymphocyte hemolysis?",
+  "back": "Group O red cells, so they lack the antigen that the donor-derived anti-A attacks. Plasma and platelets should be group A or AB. Monitor DAT, bilirubin and hemoglobin closely."
+ },
+ {
+  "id": 117,
+  "domain": "evaluation",
+  "front": "What is a common indication for therapeutic plasma exchange that uses albumin replacement?",
+  "back": "Conditions such as Guillain-Barre syndrome and myasthenia gravis, where pathogenic antibodies are removed. Albumin is typically the replacement fluid, while plasma is chosen when clotting factors must be replaced, such as in TTP."
+ },
+ {
+  "id": 118,
+  "domain": "evaluation",
+  "front": "Which replacement fluid is the standard for plasma exchange in thrombotic thrombocytopenic purpura?",
+  "back": "Plasma (or cryosupernatant), because it supplies ADAMTS13 that the patient lacks and removes inhibitory antibodies. Albumin alone would not replace the missing enzyme."
+ },
+ {
+  "id": 119,
+  "domain": "evaluation",
+  "front": "What is the first step when reading an antibody panel result table?",
+  "back": "Check the autocontrol and screening cells: note which reaction phase and strength, then cross out (rule out) antibodies using cells that are negative and show homozygous expression of the antigen."
+ },
+ {
+  "id": 120,
+  "domain": "evaluation",
+  "front": "When ruling out an antibody on a panel, which cells are most reliable?",
+  "back": "Nonreactive cells that carry a double dose (homozygous) of the antigen, since some antibodies react only with homozygous expression. Heterozygous cells are acceptable for antigens like D, K and others without dosage."
+ },
+ {
+  "id": 121,
+  "domain": "evaluation",
+  "front": "After ruling out, a panel pattern fits anti-Jka but the autocontrol is negative. What is the next step?",
+  "back": "Confirm by phenotyping the patient's red cells, which should be Jk(a-), and confirm the pattern with selected cells. The patient must lack the antigen, otherwise the specificity is unlikely."
+ },
+ {
+  "id": 122,
+  "domain": "evaluation",
+  "front": "What does the rule of three require to confirm an antibody specificity?",
+  "back": "At least three antigen-positive cells reacting and three antigen-negative cells nonreactive (3 plus 3), giving a probability of 0.05 or less that the pattern is by chance. Fewer cells need selected cells to meet it."
+ },
+ {
+  "id": 123,
+  "domain": "evaluation",
+  "front": "A current ABO type disagrees with the patient's previous record. What is the first action?",
+  "back": "Suspect a wrong blood in tube or mislabelled sample: request a new sample collected and labelled correctly, then repeat the typing and compare with the history before any blood is issued, apart from emergencies."
+ },
+ {
+  "id": 124,
+  "domain": "evaluation",
+  "front": "A sample shows a mixed-field pattern in ABO forward typing with no transfusion or transplant history. What is a possible cause?",
+  "back": "Specimen contamination or two patients mixed, or rarely a chimera or weak subgroup. Request a fresh sample, review the collection, and use group O red cells until the type is resolved."
+ },
+ {
+  "id": 125,
+  "domain": "preparation_and_testing",
+  "front": "In tube ABO grouping, what two tests must agree, and what are they called?",
+  "back": "The forward group (patient red cells with anti-A and anti-B) and the reverse group (patient plasma with A1 and B reagent red cells). Any discrepancy between them must be resolved before the ABO group is reported."
+ },
+ {
+  "id": 126,
+  "domain": "preparation_and_testing",
+  "front": "Why is a patient cell control or auto-control often run alongside Rh typing in tube method?",
+  "back": "Rh typing with anti-D can give a false positive if the patient's cells are already coated with antibody. A negative control (such as Rh control reagent or auto-control) shows whether the agglutination is truly anti-D."
+ },
+ {
+  "id": 127,
+  "domain": "preparation_and_testing",
+  "front": "What happens to a tube ABO or Rh test if centrifugation is too long or too fast?",
+  "back": "Over-spinning packs the cells so tightly that they are hard to resuspend, and weak agglutination can be missed or dispersed. Under-spinning gives a loose button and false negatives. Use the calibrated spin time and speed."
+ },
+ {
+  "id": 128,
+  "domain": "preparation_and_testing",
+  "front": "How should a tube reaction be read after centrifugation?",
+  "back": "Gently dislodge the red cell button and look for agglutination macroscopically against a good light, then grade it. Shake smoothly, not hard, because rough handling can break weak agglutinates into a false negative."
+ },
+ {
+  "id": 129,
+  "domain": "preparation_and_testing",
+  "front": "What is the principle of gel card testing for blood group and antibody work?",
+  "back": "Red cells and reagent are centrifuged through a gel matrix in a microtube. Agglutinated cells are trapped at or near the top, and unagglutinated cells pass through and form a pellet at the bottom."
+ },
+ {
+  "id": 130,
+  "domain": "preparation_and_testing",
+  "front": "What is the main principle of solid phase red cell adherence testing?",
+  "back": "Antigen or antibody is fixed to the well of a microplate. Positive reactions show red cells spread across the well bottom as a mat, while negative reactions form a tight button in the centre."
+ },
+ {
+  "id": 131,
+  "domain": "preparation_and_testing",
+  "front": "Name two common causes of failed or unreadable gel card reactions.",
+  "back": "Fibrin or clots in the sample, and a red cell suspension that is too strong or too weak. Others include bubbles in the gel, a damaged or dried card, and a card used past its expiry."
+ },
+ {
+  "id": 132,
+  "domain": "preparation_and_testing",
+  "front": "What does a 4+ tube agglutination reaction look like?",
+  "back": "One solid agglutinate with no free red cells and a clear supernatant. Reactions are graded from 0 (no agglutination) up through weak (w+), 1+, 2+, 3+ and 4+ by clump size and background."
+ },
+ {
+  "id": 133,
+  "domain": "preparation_and_testing",
+  "front": "What does a mixed field reaction look like, and what can cause it?",
+  "back": "Agglutinated cells sit beside many unagglutinated cells. Causes include a recent non-group-O transfusion to a group O patient, a bone marrow transplant of a different group, or the subgroup A3."
+ },
+ {
+  "id": 134,
+  "domain": "preparation_and_testing",
+  "front": "How can hemolysis in a tube test be interpreted when reading the supernatant?",
+  "back": "Hemolysis after adding reagent or serum is a positive reaction, because complement-binding antibody lysed the cells. A pink supernatant with no hemolysis in the control tube is not an artifact and should be reported as positive."
+ },
+ {
+  "id": 135,
+  "domain": "preparation_and_testing",
+  "front": "Why must red cells be washed several times before adding AHG in the indirect antiglobulin test?",
+  "back": "To remove all unbound serum immunoglobulin. Leftover free IgG would neutralize the anti-human globulin and cause a false negative result, so a dry button with the last wash decanted fully is essential."
+ },
+ {
+  "id": 136,
+  "domain": "preparation_and_testing",
+  "front": "What does anti-human globulin (AHG) do in the antiglobulin test?",
+  "back": "It binds human IgG or complement already attached to red cells and links neighbouring cells together, producing visible agglutination. Polyspecific AHG contains anti-IgG and anti-C3d, while monospecific reagents detect only one."
+ },
+ {
+  "id": 137,
+  "domain": "preparation_and_testing",
+  "front": "What are check cells (Coombs control cells) and why are they added to negative AHG tests?",
+  "back": "IgG-coated red cells added to every negative antiglobulin test after spinning. They should agglutinate, proving AHG was added and active and that the cells were adequately washed."
+ },
+ {
+  "id": 138,
+  "domain": "preparation_and_testing",
+  "front": "A negative AHG test fails to agglutinate check cells. What should the technologist do?",
+  "back": "Treat the test as invalid, not negative. Likely causes are inadequate washing, missed AHG or inactive AHG. Repeat the whole test with fresh washes and verified reagent."
+ },
+ {
+  "id": 139,
+  "domain": "preparation_and_testing",
+  "front": "Are check cells added to an AHG test that is already positive, and why or why not?",
+  "back": "No. A positive AHG reaction already proves AHG was added and active. Check cells only validate a negative AHG reading."
+ },
+ {
+  "id": 140,
+  "domain": "preparation_and_testing",
+  "front": "How often must blood grouping antisera and reagent red cells be quality controlled?",
+  "back": "Each day of use, with known positive and negative control cells for each antiserum, and known antibody controls for reagent cells. Record the results before patient testing is reported."
+ },
+ {
+  "id": 141,
+  "domain": "preparation_and_testing",
+  "front": "What is the daily QC check for AHG reagent?",
+  "back": "Test it against weakly sensitized IgG-coated cells (positive expected) and against unsensitized cells (negative expected). A failed positive control means the AHG cannot be trusted for patient testing."
+ },
+ {
+  "id": 142,
+  "domain": "preparation_and_testing",
+  "front": "What strength should a red cell suspension be for routine tube serologic testing?",
+  "back": "A 2 to 5 percent suspension in saline. A suspension that is too heavy gives antigen excess and weak reactions masked, while one too light makes a reaction look weaker and may give false negatives."
+ },
+ {
+  "id": 143,
+  "domain": "preparation_and_testing",
+  "front": "What does antigen excess do to a tube reaction when the red cell suspension is too concentrated?",
+  "back": "It lowers the antibody-to-antigen ratio, so antibody binds fewer cells per particle and agglutination appears weaker than it really is, risking a missed weak antibody or a weak antigen."
+ },
+ {
+  "id": 144,
+  "domain": "preparation_and_testing",
+  "front": "How does low ionic strength saline (LISS) enhance antibody uptake?",
+  "back": "Reduced ionic strength lowers the cloud of ions around red cells, so antibody binds faster, which shortens the IgG incubation time to about 10 to 15 minutes at 37 C."
+ },
+ {
+  "id": 145,
+  "domain": "preparation_and_testing",
+  "front": "What is a known pitfall of polyethylene glycol (PEG) enhancement?",
+  "back": "PEG can cause nonspecific aggregation, so it must not be read directly after spinning without AHG. It also boosts autoantibody reactions and can increase clinically insignificant findings."
+ },
+ {
+  "id": 146,
+  "domain": "preparation_and_testing",
+  "front": "What incubation temperature and time are standard for detecting clinically significant IgG antibodies?",
+  "back": "37 C, which is the temperature at which clinically significant IgG alloantibodies react, for 30 to 60 minutes in saline or albumin, shortened to 10 to 15 minutes in LISS."
+ },
+ {
+  "id": 147,
+  "domain": "preparation_and_testing",
+  "front": "Which red cell antigens are destroyed by ficin or papain?",
+  "back": "Duffy antigens (Fya, Fyb), M, N, S and s, and Xga. Enzyme treatment strips these off the red cell surface so the antibodies against them no longer react."
+ },
+ {
+  "id": 148,
+  "domain": "preparation_and_testing",
+  "front": "Which blood group antibodies are enhanced by enzyme-treated red cells?",
+  "back": "Rh antibodies (such as anti-D, C, c, E, e), plus Kidd, Lewis and I antibodies. Enzymes improve their detection and are often used to separate mixtures of antibodies."
+ },
+ {
+  "id": 149,
+  "domain": "preparation_and_testing",
+  "front": "What is the purpose of an elution when investigating a DAT positive sample?",
+  "back": "Elution removes antibody bound to the patient's red cells. The eluate is then tested against reagent cells to identify the specificity of the coating antibody, for example in hemolytic transfusion reactions or hemolytic disease of the newborn."
+ },
+ {
+  "id": 150,
+  "domain": "preparation_and_testing",
+  "front": "Which elution method is classically used to detect ABO antibodies on the red cells of a newborn?",
+  "back": "Heat elution at 56 C. ABO antibodies elute readily at this temperature, so it suits suspected ABO hemolytic disease of the newborn. Acid elution kits are the common choice for IgG antibodies in general."
+ },
+ {
+  "id": 151,
+  "domain": "preparation_and_testing",
+  "front": "Why is chloroquine diphosphate used on red cells with a strongly positive DAT?",
+  "back": "It dissociates IgG from the red cell surface while preserving most antigens, such as Rh. The treated cells can then be phenotyped or used for autoadsorption, since IgG coating would otherwise block AHG based typing."
+ },
+ {
+  "id": 152,
+  "domain": "preparation_and_testing",
+  "front": "What is the goal of autoadsorption, and when must it not be used?",
+  "back": "Autoadsorption removes warm autoantibody from the patient's serum using the patient's own cells, uncovering underlying alloantibodies. Avoid it if the patient was transfused in the last 3 months, since donor cells would adsorb alloantibody too."
+ },
+ {
+  "id": 153,
+  "domain": "preparation_and_testing",
+  "front": "When is allogeneic adsorption used instead of autoadsorption, and how are the adsorbing cells chosen?",
+  "back": "Use it when the patient was recently transfused or too few cells are available. Select group O reagent cells of known phenotypes (such as R1R1, R2R2 and rr) so that an alloantibody to a missing antigen stays in the serum."
+ },
+ {
+  "id": 154,
+  "domain": "preparation_and_testing",
+  "front": "What does ZZAP reagent do to patient red cells, and which antigens does it destroy?",
+  "back": "ZZAP combines dithiothreitol (DTT) and a proteolytic enzyme (papain or ficin). It removes IgG from cells and enhances autoadsorption, but it destroys Kell system antigens (DTT) and Duffy and MNS antigens (enzyme)."
+ },
+ {
+  "id": 155,
+  "domain": "preparation_and_testing",
+  "front": "What is the purpose of the prewarm technique in antibody identification?",
+  "back": "It avoids detecting clinically insignificant cold reactive antibodies. Serum and cells are warmed separately to 37 C before mixing, incubated at 37 C, and tested by AHG with no room temperature or immediate spin phase."
+ },
+ {
+  "id": 156,
+  "domain": "preparation_and_testing",
+  "front": "In a cold panel with adult cells and cord cells, what pattern suggests anti-I?",
+  "back": "Anti-I reacts strongly with adult cells (I positive) and weakly or not at all with cord cells, which carry mainly i antigen. Testing is done at 4 C, with an autologous control to compare."
+ },
+ {
+  "id": 157,
+  "domain": "preparation_and_testing",
+  "front": "What is used to neutralize anti-Lea and anti-Leb so that other antibodies in the serum can be seen?",
+  "back": "Soluble Lewis substance, from commercial preparations or Lewis positive saliva. Mix it with the serum before testing. The Lewis antibody is inhibited and any remaining alloantibody reacts with the panel cells."
+ },
+ {
+  "id": 158,
+  "domain": "preparation_and_testing",
+  "front": "Which soluble substance neutralizes anti-P1?",
+  "back": "P1 substance, obtained from hydatid cyst fluid or pigeon egg white. Neutralized serum no longer reacts with P1 positive cells, helping to expose any other antibody hidden behind the anti-P1."
+ },
+ {
+  "id": 159,
+  "domain": "preparation_and_testing",
+  "front": "How can anti-Sda be confirmed by inhibition?",
+  "back": "Sda substance is found in urine. Pooled urine from Sd(a+) people neutralizes anti-Sda, so reactivity disappears. Anti-Sda is recognized by small, shiny, refractile mixed field agglutinates."
+ },
+ {
+  "id": 160,
+  "domain": "preparation_and_testing",
+  "front": "How is the titre defined in an antibody titration?",
+  "back": "The titre is the reciprocal of the highest serum dilution that still gives a macroscopic 1+ agglutination. For example, a last positive tube at 1 in 64 gives a titre of 64."
+ },
+ {
+  "id": 161,
+  "domain": "preparation_and_testing",
+  "front": "How is a titration score calculated, and what difference is considered significant?",
+  "back": "Assign a value to each tube reaction (4+ = 12, 3+ = 10, 2+ = 8, 1+ = 5, weak = 3, negative = 0) and add them. A score difference of 10 or more, or a two tube titre difference, is significant when samples are tested in parallel."
+ },
+ {
+  "id": 162,
+  "domain": "preparation_and_testing",
+  "front": "When is an immediate spin crossmatch sufficient?",
+  "back": "When the patient's antibody screen is negative and there is no history of clinically significant antibodies. The immediate spin crossmatch serves as a final check for ABO incompatibility between patient plasma and donor red cells."
+ },
+ {
+  "id": 163,
+  "domain": "preparation_and_testing",
+  "front": "When is an AHG crossmatch required, and how should donor units be selected?",
+  "back": "Required when the patient has, or has a history of, a clinically significant antibody. Select units lacking the corresponding antigen first, then perform the AHG crossmatch on those units to confirm compatibility."
+ },
+ {
+  "id": 164,
+  "domain": "preparation_and_testing",
+  "front": "What conditions must be met before using an electronic crossmatch?",
+  "back": "A validated computer system, two determinations of the patient's ABO and Rh (current sample plus a historical record), a negative antibody screen, and no history of clinically significant antibodies, according to your laboratory policy."
+ },
+ {
+  "id": 165,
+  "domain": "preparation_and_testing",
+  "front": "What does a positive rosette screen indicate in a D negative mother?",
+  "back": "Fetal D positive cells in her circulation: indicator D positive cells form rosettes around fetal cells coated with anti-D. It is qualitative only, so a positive result needs a quantitative test to size the bleed."
+ },
+ {
+  "id": 166,
+  "domain": "preparation_and_testing",
+  "front": "How does the Kleihauer Betke test distinguish fetal from maternal cells?",
+  "back": "Acid elution removes adult hemoglobin from maternal cells, leaving pale ghost cells, while fetal hemoglobin resists elution and stains pink. Count fetal cells among a set number of cells to estimate the bleed."
+ },
+ {
+  "id": 167,
+  "domain": "preparation_and_testing",
+  "front": "Why is flow cytometry preferred for fetal bleed quantitation?",
+  "back": "It counts thousands of cells labelled with anti-HbF or anti-D, giving a more precise and objective percentage of fetal cells than manual microscopy, with less variation between technologists."
+ },
+ {
+  "id": 168,
+  "domain": "preparation_and_testing",
+  "front": "How is the fetal bleed volume estimated from a Kleihauer Betke result?",
+  "back": "Percent fetal cells multiplied by 5000 mL (the assumed maternal blood volume). For example, 0.6 percent x 5000 mL = 30 mL of fetal whole blood."
+ },
+ {
+  "id": 169,
+  "domain": "preparation_and_testing",
+  "front": "How is the number of RhIG vials calculated from a fetal bleed in mL of whole blood?",
+  "back": "Divide the bleed by 30 mL (what one 300 ug vial covers), then add one extra vial as a safety margin. Example: 30 mL gives 1, plus 1 equals 2 vials. Check the product insert for dose coverage."
+ },
+ {
+  "id": 170,
+  "domain": "preparation_and_testing",
+  "front": "What is the purpose of the weak D test, and who is typically tested?",
+  "back": "It detects weak expression of D using anti-D by the indirect antiglobulin test after a negative direct reading. Blood donors are tested so weak D units are labelled D positive; recipients usually are not, per hospital policy."
+ },
+ {
+  "id": 171,
+  "domain": "preparation_and_testing",
+  "front": "What control makes a weak D result invalid if it is positive?",
+  "back": "The Rh control or autologous control. If the control reacts, as with a positive DAT or cells coated with IgG, the weak D result cannot be interpreted and the cells need further investigation."
+ },
+ {
+  "id": 172,
+  "domain": "preparation_and_testing",
+  "front": "Which controls are run alongside antigen typing of red cells?",
+  "back": "A positive control (cells known to carry the antigen, ideally heterozygous) and a negative control (cells lacking it), with each lot of antiserum, so the reagent's reactivity and specificity are confirmed."
+ },
+ {
+  "id": 173,
+  "domain": "preparation_and_testing",
+  "front": "How can a patient's red cells with a positive DAT be antigen typed reliably?",
+  "back": "Use saline reactive (direct agglutinating) monoclonal antisera, or first remove the coating IgG with chloroquine or EDTA glycine acid. AHG based typing on IgG coated cells gives false positive results."
+ },
+ {
+  "id": 174,
+  "domain": "preparation_and_testing",
+  "front": "At what temperature is frozen plasma thawed, and how is it stored once thawed if not used immediately?",
+  "back": "Thaw in a 30 to 37 C water bath or approved thawing device. Once thawed, store at 1 to 6 C. Unrelabelled thawed plasma expires 24 hours after thawing, so record the thaw time."
+ },
+ {
+  "id": 175,
+  "domain": "preparation_and_testing",
+  "front": "How should thawed cryoprecipitate be stored, and why must it never be refrigerated?",
+  "back": "Keep it at room temperature (20 to 24 C). Cold causes cryoprecipitate to precipitate again and can degrade labile factor VIII and von Willebrand factor, so a refrigerated pool is not suitable for issue."
+ },
+ {
+  "id": 176,
+  "domain": "preparation_and_testing",
+  "front": "After pooling cryoprecipitate in an open system, how soon must the pool be transfused?",
+  "back": "Within 4 hours of pooling, because the open system raises bacterial contamination risk and factor VIII activity falls at room temperature. Label the pool with the pooling time and the expiry time."
+ },
+ {
+  "id": 177,
+  "domain": "preparation_and_testing",
+  "front": "Which coagulation proteins make cryoprecipitate useful, and what is its main use?",
+  "back": "It is rich in fibrinogen, factor VIII, von Willebrand factor, factor XIII and fibronectin. Its main use is replacing fibrinogen when it is low in bleeding patients, such as in massive hemorrhage or DIC."
+ },
+ {
+  "id": 178,
+  "domain": "preparation_and_testing",
+  "front": "At what temperature must platelets be stored, and what must they receive during storage?",
+  "back": "Store at 20 to 24 C with continuous gentle agitation. Agitation keeps oxygen exchange going through the bag and limits lactic acid build-up and pH fall, which would damage platelet function."
+ },
+ {
+  "id": 179,
+  "domain": "preparation_and_testing",
+  "front": "Why must platelet components never be placed in a blood bank refrigerator?",
+  "back": "Cold exposure changes platelet shape and causes them to clump and be cleared quickly from the circulation after transfusion. Platelets that were refrigerated give a poor increment and should not be issued."
+ },
+ {
+  "id": 180,
+  "domain": "preparation_and_testing",
+  "front": "What swirling check do you perform when inspecting a platelet unit, and what does loss of swirl suggest?",
+  "back": "Gently hold the bag to the light and look for shimmering swirls. Loss of swirl suggests a falling pH, bacterial growth or platelets damaged by cold, so quarantine the unit and investigate."
+ },
+ {
+  "id": 181,
+  "domain": "preparation_and_testing",
+  "front": "What disease does irradiating cellular blood components prevent, and how does it work?",
+  "back": "Transfusion-associated graft versus host disease. Gamma or X-ray irradiation inactivates donor T lymphocytes so they cannot proliferate and attack the recipient's tissues. It does not remove leukocytes."
+ },
+ {
+  "id": 182,
+  "domain": "preparation_and_testing",
+  "front": "What is the minimum dose requirement for irradiating a blood component?",
+  "back": "At least 25 Gy delivered to the central part of the container, with no part of the component receiving less than 15 Gy. Use a radiation indicator label to confirm the unit was exposed."
+ },
+ {
+  "id": 183,
+  "domain": "preparation_and_testing",
+  "front": "What is the expiry of a red cell unit after irradiation, and why does it change?",
+  "back": "28 days from irradiation or the original expiry, whichever is sooner. Irradiation damages the red cell membrane, causing extra potassium leakage, so irradiated red cells are shortened in shelf life."
+ },
+ {
+  "id": 184,
+  "domain": "preparation_and_testing",
+  "front": "What residual white cell count defines a leukoreduced component, and name two benefits.",
+  "back": "Fewer than 5 x 10^6 residual leukocytes per unit. It lowers febrile non-hemolytic reactions and HLA alloimmunization, and reduces CMV transmission risk. It does not prevent graft versus host disease."
+ },
+ {
+  "id": 185,
+  "domain": "preparation_and_testing",
+  "front": "Which patient problem is the classic reason for washed red cells or platelets?",
+  "back": "Recurrent severe allergic reactions or anaphylaxis from plasma proteins, notably IgA deficiency with anti-IgA. Washing with saline removes most plasma. It is an open procedure, so the washed unit has a short expiry."
+ },
+ {
+  "id": 186,
+  "domain": "preparation_and_testing",
+  "front": "What is the expiry of a washed red cell unit and why is it so short?",
+  "back": "Typically 24 hours at 1 to 6 C. Washing in an open system loses the preservative solution and breaks the sterile closed system, so bacterial growth risk rises, and the expiry is cut to the original or 24 hours."
+ },
+ {
+  "id": 187,
+  "domain": "preparation_and_testing",
+  "front": "What information must appear on a labelled blood component before issue?",
+  "back": "Component name, ABO and Rh, unique donation identifier (ISBT 128), expiry date and time, storage temperature and any modifications such as irradiated or washed. The label is checked against the order and the compatibility record."
+ },
+ {
+  "id": 188,
+  "domain": "preparation_and_testing",
+  "front": "How does opening the bag for a procedure change the expiry of a red cell unit?",
+  "back": "Opening a closed system (pooling, washing, aliquoting without a sterile connecting device) drops the expiry to 24 hours at 1 to 6 C, or the original date if sooner. Record the new expiry on the label."
+ },
+ {
+  "id": 189,
+  "domain": "preparation_and_testing",
+  "front": "What visual change in a stored red cell unit suggests bacterial contamination?",
+  "back": "A dark purple or brown colour of the unit, clots, gas bubbles, or a plasma layer that looks turbid or discoloured compared with the segment. Quarantine the unit and notify the medical director."
+ },
+ {
+  "id": 190,
+  "domain": "preparation_and_testing",
+  "front": "What does a pink or red supernatant in a stored red cell unit or plasma suggest?",
+  "back": "Hemolysis from damaged red cells, caused by contamination, freezing or heating, or storage injury. Do not issue the unit, and record the observation, quarantine the unit and follow the facility's nonconformance process."
+ },
+ {
+  "id": 191,
+  "domain": "preparation_and_testing",
+  "front": "What does the 30 minute rule for red cells mean in most transfusion services?",
+  "back": "If a unit has been out of controlled storage more than 30 minutes (without a validated cooler), it is generally not returned to inventory. Policy rests on the service's validated temperature data."
+ },
+ {
+  "id": 192,
+  "domain": "preparation_and_testing",
+  "front": "What is the temperature range for transporting red cells in a validated cooler?",
+  "back": "Red cells must stay between 1 and 10 C during transport. The cooler is validated with the right gel packs and load, and temperature is checked on return before the unit goes back to inventory."
+ },
+ {
+  "id": 193,
+  "domain": "preparation_and_testing",
+  "front": "A serum is diluted 1 in 10. How do you prepare 5 mL of this dilution?",
+  "back": "A 1 in 10 dilution is 1 part serum plus 9 parts diluent, 10 parts total. For 5 mL, use 0.5 mL serum plus 4.5 mL saline."
+ },
+ {
+  "id": 194,
+  "domain": "preparation_and_testing",
+  "front": "How is a titre score calculated, and what difference between two samples is considered significant?",
+  "back": "Assign a value to each tube's reaction strength and add the values. A difference of 10 or more in score, or a two tube dilution change, between two samples is considered clinically significant."
+ },
+ {
+  "id": 195,
+  "domain": "preparation_and_testing",
+  "front": "Roughly how much does one unit of red cells raise hemoglobin in a 70 kg adult who is not bleeding?",
+  "back": "About 10 g/L (hematocrit about 3 percent). Use this to estimate how many units are needed, then confirm with a post transfusion hemoglobin."
+ },
+ {
+  "id": 196,
+  "domain": "preparation_and_testing",
+  "front": "State the corrected count increment (CCI) formula.",
+  "back": "CCI = (post count minus pre count, x 10^9/L) x body surface area (m2) divided by platelets transfused (x 10^11). Counts are usually taken 10 to 60 minutes after the transfusion."
+ },
+ {
+  "id": 197,
+  "domain": "preparation_and_testing",
+  "front": "Which CCI values show an adequate platelet response, and what poor results suggest?",
+  "back": "CCI of 7.5 or more at 1 hour, or 4.5 or more at 24 hours, shows a good response. Repeated poor increments suggest refractoriness from HLA antibodies, fever, sepsis, splenomegaly or consumption."
+ },
+ {
+  "id": 198,
+  "domain": "preparation_and_testing",
+  "front": "Which infectious disease markers are screened for on every donation in Canada?",
+  "back": "HIV, hepatitis B (HBsAg, anti-HBc and NAT), hepatitis C, HTLV I and II, and syphilis, with NAT for HIV, HCV and HBV. West Nile virus NAT is added in season. Reactive results lead to discard of the donation."
+ },
+ {
+  "id": 199,
+  "domain": "preparation_and_testing",
+  "front": "Why is a donor's hemoglobin checked before whole blood collection, and what is the Canadian Blood Services minimum for females and males?",
+  "back": "It protects the donor from anemia. Canadian Blood Services minimums are 125 g/L for female donors and 130 g/L for male donors, measured on a pre-donation fingerstick or venous sample."
+ },
+ {
+  "id": 200,
+  "domain": "preparation_and_testing",
+  "front": "What is the usual minimum interval between whole blood donations, and why does it exist?",
+  "back": "About 56 days (8 weeks) at Canadian Blood Services. The gap lets the donor rebuild iron stores and red cell mass after losing roughly 450 mL of blood."
+ },
+ {
+  "id": 201,
+  "domain": "preparation_and_testing",
+  "front": "Why are donors with certain recent travel or risk exposures deferred even when they feel well?",
+  "back": "Some infections (for example malaria) can be present without symptoms and may be missed by screening tests. A deferral period protects the recipient from transmission through the unit."
+ },
+ {
+  "id": 202,
+  "domain": "preparation_and_testing",
+  "front": "What are the common early signs of a vasovagal donor reaction, and what is the first action?",
+  "back": "Pallor, sweating, dizziness, nausea, and a slow pulse. Stop the collection, lay the donor flat with legs raised, loosen tight clothing, and monitor until recovered."
+ },
+ {
+  "id": 203,
+  "domain": "preparation_and_testing",
+  "front": "What does citrate toxicity cause in apheresis donors, and what symptom is typical?",
+  "back": "Citrate binds ionized calcium in the donor's blood. Tingling around the lips and fingers is the typical early symptom, relieved by slowing the return rate or giving oral calcium."
+ },
+ {
+  "id": 204,
+  "domain": "preparation_and_testing",
+  "front": "Why is the first portion of a whole blood donation diverted into a pouch before the unit bag fills?",
+  "back": "The diversion pouch captures the first 20 to 40 mL, which carries skin plugs and surface bacteria. This lowers bacterial contamination of the unit, and the diverted blood is used for donor testing samples."
+ },
+ {
+  "id": 205,
+  "domain": "preparation_and_testing",
+  "front": "What is the usual storage temperature range for whole blood and red cell units before issue?",
+  "back": "1 to 6 degrees C, in a monitored blood bank refrigerator with a temperature chart and alarm. Transport containers must keep units within 1 to 10 degrees C."
+ },
+ {
+  "id": 206,
+  "domain": "preparation_and_testing",
+  "front": "Which ABO testing is performed on every donor unit, and why are both parts needed?",
+  "back": "Forward grouping (donor red cells with anti-A and anti-B) and reverse grouping (donor plasma with A1 and B cells). Each part checks the other, so a missing or extra reaction flags an error or a variant."
+ },
+ {
+  "id": 207,
+  "domain": "preparation_and_testing",
+  "front": "A donor unit shows a mismatch between forward and reverse ABO grouping. How is the unit handled?",
+  "back": "Quarantine it and do not label or release it until the discrepancy is resolved. Repeat the testing, investigate causes such as weak subgroups or cold agglutinins, and discard the unit if it cannot be resolved."
+ },
+ {
+  "id": 208,
+  "domain": "preparation_and_testing",
+  "front": "What is the purpose of quarantining a donated unit until testing is complete?",
+  "back": "The unit cannot be released to inventory until ABO/Rh typing, antibody screening, and mandatory infectious disease tests are all complete and acceptable. Quarantine stops untested or reactive blood from reaching a patient."
+ },
+ {
+  "id": 209,
+  "domain": "preparation_and_testing",
+  "front": "What is a look-back investigation after a donor tests positive on a later donation?",
+  "back": "The lab identifies earlier donations from that donor, quarantines or recalls components still in inventory, and notifies the hospitals so recipients' physicians can be told and followed up."
+ },
+ {
+  "id": 210,
+  "domain": "preparation_and_testing",
+  "front": "How must an autologous unit be labelled, and can it be given to another patient?",
+  "back": "It is labelled for autologous use only, with the patient's name and identifiers. It must be kept separate in inventory and is not transfused to anyone else, even if the patient does not use it."
+ },
+ {
+  "id": 211,
+  "domain": "preparation_and_testing",
+  "front": "Why are directed donations from blood relatives irradiated?",
+  "back": "Shared HLA haplotypes between relatives raise the risk of transfusion-associated graft-versus-host disease. Gamma or X-ray irradiation stops donor T lymphocytes from proliferating in the recipient."
+ },
+ {
+  "id": 212,
+  "domain": "preparation_and_testing",
+  "front": "Does a directed donation get less testing than a general donation?",
+  "back": "No. A directed unit gets the same ABO/Rh typing, antibody screening, and infectious disease testing as any other unit. Compatibility with the intended recipient must still be confirmed."
+ },
+ {
+  "id": 213,
+  "domain": "preparation_and_testing",
+  "front": "How are cord blood hematopoietic progenitor cell products stored long term, and which cryoprotectant is used?",
+  "back": "They are cryopreserved in liquid nitrogen storage at about minus 150 degrees C or colder. DMSO is the cryoprotectant that limits ice crystal damage to the cells."
+ },
+ {
+  "id": 214,
+  "domain": "preparation_and_testing",
+  "front": "What must be confirmed before a thawed stem cell product is infused?",
+  "back": "Match the product label to the patient's identifiers, and verify the ABO/Rh compatibility and the cell dose with a second person. Thaw according to the facility's validated method and infuse promptly."
+ },
+ {
+  "id": 215,
+  "domain": "preparation_and_testing",
+  "front": "How can a hemolyzed pre-transfusion sample mislead a transfusion reaction investigation?",
+  "back": "Red or pink plasma in the sample taken before transfusion may be in vitro hemolysis, which makes it hard to judge whether post-transfusion hemolysis is new. Always compare pre and post samples side by side."
+ },
+ {
+  "id": 216,
+  "domain": "preparation_and_testing",
+  "front": "Why can in vitro hemolysis obscure a reaction in antibody screening or crossmatch tests?",
+  "back": "Free hemoglobin colours the plasma red, which can hide or mimic the hemolysis that signals a positive reaction. Recollect the sample with less trauma before reporting an uncertain result."
+ },
+ {
+  "id": 217,
+  "domain": "preparation_and_testing",
+  "front": "What are two common causes of a false positive reaction in a gel card test?",
+  "back": "Fibrin or microclots from an incompletely clotted or anticoagulated sample, and cold agglutinins or other cold-reactive antibodies. Retesting on a fresh, warmed, or washed sample usually resolves it."
+ },
+ {
+  "id": 218,
+  "domain": "preparation_and_testing",
+  "front": "What are two causes of a false negative reaction in gel or tube antiglobulin testing?",
+  "back": "Too thick or too thin a red cell suspension, and missed or inadequate washing leaving residual unbound IgG that neutralizes the AHG reagent. Failure to add serum is another cause."
+ },
+ {
+  "id": 219,
+  "domain": "preparation_and_testing",
+  "front": "Why are check cells (IgG-coated red cells) added to every negative tube antiglobulin test?",
+  "back": "A positive reaction with check cells proves the AHG reagent was added and active and that washing was adequate. If check cells do not react, the negative result is invalid and the test is repeated."
+ },
+ {
+  "id": 220,
+  "domain": "preparation_and_testing",
+  "front": "What must be verified on an automated cell washer to avoid false negatives in the tube antiglobulin test?",
+  "back": "That each cycle fills with the correct volume of saline, completes all wash steps, and decants the last wash fully. Residual saline dilutes the AHG reagent, so check the dryness of the button."
+ },
+ {
+  "id": 221,
+  "domain": "preparation_and_testing",
+  "front": "What does calibration of a serologic centrifuge confirm, and how often is it done?",
+  "back": "It confirms the correct spin time and speed (rpm or g-force) that give the optimal reaction strength. Do it at installation, after repair, and at regular intervals set by the lab's quality program."
+ },
+ {
+  "id": 222,
+  "domain": "preparation_and_testing",
+  "front": "Name the key requirements before a computer (electronic) crossmatch can replace a serologic crossmatch.",
+  "back": "Two ABO determinations on record, a negative antibody screen with no history of clinically significant antibodies, and a validated computer system that blocks incompatible ABO and Rh selections."
+ },
+ {
+  "id": 223,
+  "domain": "specimen_collection",
+  "front": "What is positive patient identification before a pretransfusion sample is drawn?",
+  "back": "Ask the patient to state their full name, then compare it with the wristband and requisition. For an unable patient, confirm with the wristband and a second source. Never rely on the bed or room number."
+ },
+ {
+  "id": 224,
+  "domain": "specimen_collection",
+  "front": "Why must a pretransfusion sample be labelled at the bedside, in front of the patient?",
+  "back": "Labelling away from the patient is the main cause of wrong blood in tube errors. Label only after drawing, with the patient present. Never pre-label tubes, because a mislabelled sample can cause a fatal ABO incompatible transfusion."
+ },
+ {
+  "id": 225,
+  "domain": "specimen_collection",
+  "front": "What should the laboratory do when it receives a pretransfusion sample from an unconscious patient?",
+  "back": "Check that the sample label matches the requisition on two identifiers taken from the patient's wristband. Any mismatch means the sample is rejected and a new one is collected. Do not correct labels on a received sample."
+ },
+ {
+  "id": 226,
+  "domain": "specimen_collection",
+  "front": "Which details must appear on a transfusion specimen label?",
+  "back": "At least two unique patient identifiers (full name plus a unique number such as the health card or MRN), the date and time of collection, and the identity of the collector, applied at the bedside."
+ },
+ {
+  "id": 227,
+  "domain": "specimen_collection",
+  "front": "Why is the time of collection required on a transfusion specimen label?",
+  "back": "The time lets the laboratory judge the sample's validity window, which depends on recent transfusion or pregnancy. It also gives a traceable record if an investigation is needed after an adverse event."
+ },
+ {
+  "id": 228,
+  "domain": "specimen_collection",
+  "front": "A transfusion specimen has the collector's initials missing. What is the usual laboratory response?",
+  "back": "Reject the sample and request a new collection. Missing collector identification breaks traceability and cannot be added by laboratory staff after the fact, since the lab did not witness the draw."
+ },
+ {
+  "id": 229,
+  "domain": "specimen_collection",
+  "front": "Name four common reasons to reject a pretransfusion sample.",
+  "back": "Unlabelled or mislabelled tube, identifiers that differ from the requisition, handwritten changes or missing collector information, and an unacceptable sample (hemolyzed, wrong tube, or clotted when EDTA is required)."
+ },
+ {
+  "id": 230,
+  "domain": "specimen_collection",
+  "front": "Should a blood bank technologist fix a small spelling error on a sample label to avoid recollecting?",
+  "back": "No. Any discrepancy in patient identifiers means the sample is rejected and recollected. Correcting a label without the collector present risks a wrong blood in tube error going unnoticed."
+ },
+ {
+  "id": 231,
+  "domain": "specimen_collection",
+  "front": "When is a pretransfusion sample considered valid for a patient with no recent transfusion or pregnancy?",
+  "back": "Many Canadian laboratories accept it for a longer period, set by local policy. Always follow your own laboratory's procedure. The three day rule applies only to patients with recent transfusion or pregnancy."
+ },
+ {
+  "id": 232,
+  "domain": "specimen_collection",
+  "front": "State the three day rule for pretransfusion samples.",
+  "back": "If the patient was transfused or pregnant within the previous three months (or history is uncertain), the sample must be collected no more than three days before the transfusion. Day of draw is day 0."
+ },
+ {
+  "id": 233,
+  "domain": "specimen_collection",
+  "front": "Why does recent pregnancy or transfusion shorten the allowed sample age?",
+  "back": "Either event can stimulate new red cell alloantibodies within days. A fresh sample ensures that antibody screening reflects the patient's current serum before crossmatched blood is issued."
+ },
+ {
+  "id": 234,
+  "domain": "specimen_collection",
+  "front": "What should you do if a patient's transfusion history is unknown or the patient cannot say?",
+  "back": "Treat the patient as recently transfused or pregnant. Apply the three day rule and collect a fresh sample, because an unknown history cannot exclude a newly formed antibody."
+ },
+ {
+  "id": 235,
+  "domain": "specimen_collection",
+  "front": "Which sample type is usually used for pretransfusion testing: EDTA plasma or serum?",
+  "back": "Either is commonly accepted, with EDTA plasma (lavender or pink top) preferred by many labs. EDTA chelates calcium and prevents complement activation in vitro, which helps antibody detection."
+ },
+ {
+  "id": 236,
+  "domain": "specimen_collection",
+  "front": "What is a reason to prefer serum in some compatibility testing situations?",
+  "back": "Serum retains complement activity, which can help detect some complement binding antibodies in particular testing. A clotted sample also avoids small fibrin clots that can mimic agglutination in EDTA plasma."
+ },
+ {
+  "id": 237,
+  "domain": "specimen_collection",
+  "front": "Why can a pink top EDTA tube be used for pretransfusion testing?",
+  "back": "Pink top tubes are designed for blood bank use, have a label area for extra identifiers and bar codes, and contain K2 or K3 EDTA. The red cells and plasma are both usable for ABO, Rh and screens."
+ },
+ {
+  "id": 238,
+  "domain": "specimen_collection",
+  "front": "How does a hemolyzed specimen affect blood bank testing?",
+  "back": "Free hemoglobin turns the plasma red and can mask hemolysis caused by an antibody in the patient's serum. It can also hide a true reaction in antibody screening, so recollection is usually needed."
+ },
+ {
+  "id": 239,
+  "domain": "specimen_collection",
+  "front": "What does hemolysis in a pretransfusion sample suggest about patient history?",
+  "back": "It may be an in vivo sign of a hemolytic transfusion reaction or hemolytic disease, so compare with the pretransfusion sample. If it is in vitro, it often comes from poor collection technique."
+ },
+ {
+  "id": 240,
+  "domain": "specimen_collection",
+  "front": "How do lipemic or icteric specimens interfere with blood bank testing?",
+  "back": "Lipemia and icterus colour the plasma and can interfere with reading hemolysis, but usually do not change agglutination. Lipemic samples may need washing or repeat testing, and a note should be recorded."
+ },
+ {
+  "id": 241,
+  "domain": "specimen_collection",
+  "front": "What is a wrong blood in tube (WBIT) error?",
+  "back": "A sample whose blood does not come from the patient named on its label. It is detected by comparing current results with a second sample or a historical group, and prevented by correct bedside identification."
+ },
+ {
+  "id": 242,
+  "domain": "specimen_collection",
+  "front": "How do many laboratories detect wrong blood in tube errors for a patient with no historical group on file?",
+  "back": "They require a second, independently collected sample to confirm the ABO and Rh group before group specific blood is issued. Until then, group O red cells are issued if the need is urgent."
+ },
+ {
+  "id": 243,
+  "domain": "specimen_collection",
+  "front": "A current ABO group differs from the patient's historical group. What is the first action?",
+  "back": "Stop and investigate. Do not issue group specific blood. Treat it as a possible WBIT, notify the supervisor, request a new sample, and issue group O red cells if transfusion cannot wait."
+ },
+ {
+  "id": 244,
+  "domain": "specimen_collection",
+  "front": "What problem occurs when blood is drawn from a line that has IV fluid running?",
+  "back": "Dilution of the sample by the fluid, which can weaken antigen and antibody reactions, and possible contamination with dextrose or saline that distorts results. Stop the infusion and discard enough blood first."
+ },
+ {
+  "id": 245,
+  "domain": "specimen_collection",
+  "front": "Why should heparin line contamination be avoided when collecting a transfusion sample?",
+  "back": "Heparin can cause clotting problems in serum tubes and may lead to fibrin strands that mimic agglutination. Flush and discard the proper waste volume, or collect from the opposite arm, to avoid this."
+ },
+ {
+  "id": 246,
+  "domain": "specimen_collection",
+  "front": "What is the usual approach to collecting a transfusion sample from a neonate?",
+  "back": "Collect a small volume, often by heel puncture, into a pediatric EDTA microtube, labelled with the baby's identifiers. Cord blood may also be used where policy allows. Volumes are much smaller than adult draws."
+ },
+ {
+  "id": 247,
+  "domain": "specimen_collection",
+  "front": "What is a risk when testing cord blood for ABO grouping and the direct antiglobulin test?",
+  "back": "Wharton jelly contamination can cause false positive agglutination, since the jelly can stick red cells together. Wash the red cells several times with saline before testing to remove it."
+ },
+ {
+  "id": 248,
+  "domain": "specimen_collection",
+  "front": "Why should a pre-transfusion sample never be drawn from the arm with an IV infusion running?",
+  "back": "IV fluid dilutes the sample and can alter results or cause hemolysis. Draw from the opposite arm. If impossible, stop the infusion for at least 2 minutes and draw below the IV site."
+ },
+ {
+  "id": 249,
+  "domain": "specimen_collection",
+  "front": "A patient has very poor veins and no usable site. What is the safest way to handle a pre-transfusion sample?",
+  "back": "Choose another site or ask for help from an experienced collector rather than drawing from an IV line. If a line must be used, discard enough initial blood to clear fluid and document the source."
+ },
+ {
+  "id": 250,
+  "domain": "specimen_collection",
+  "front": "A patient was transfused 2 days ago. How old can the pre-transfusion sample be for crossmatching?",
+  "back": "Patients transfused or pregnant within the last 3 months need a sample drawn within 3 days of the planned transfusion (day of draw is day 0), because new alloantibodies can form quickly."
+ },
+ {
+  "id": 251,
+  "domain": "specimen_collection",
+  "front": "Why can a sample drawn soon after a recent transfusion cause a mixed-field result in ABO or Rh typing?",
+  "back": "The sample may contain circulating donor red cells of a different type alongside the patient's own cells. Record the transfusion history and interpret the mixed field with the transfusion record."
+ },
+ {
+  "id": 252,
+  "domain": "specimen_collection",
+  "front": "Which tube type is most commonly used for pretransfusion testing in a transfusion service?",
+  "back": "A pink-top K2 or K3 EDTA tube (or per local policy a plain red-top). EDTA preserves red cells and plasma for typing and antibody screening. Never use a gel separator tube if local policy forbids it."
+ },
+ {
+  "id": 253,
+  "domain": "specimen_collection",
+  "front": "Why is bedside labelling, never pre-labelling, mandatory for blood bank samples?",
+  "back": "Labelling at the bedside, in the presence of the patient and straight after the draw, prevents wrong blood in tube errors, the leading cause of ABO-incompatible transfusion."
+ },
+ {
+  "id": 254,
+  "domain": "specimen_collection",
+  "front": "What two patient identifiers are the minimum on a blood bank sample label, and what else is required?",
+  "back": "Full name plus a second unique identifier (for example health card or MRN number) must match the request. The label also needs the date and the collector's initials or signature."
+ },
+ {
+  "id": 255,
+  "domain": "specimen_collection",
+  "front": "Why must the donor's arm be prepared with a two-step skin scrub before whole blood collection?",
+  "back": "Bacterial contamination from skin is a major risk for platelet and red cell units. Scrub with an approved antiseptic, allow full contact time, and do not touch the site again before venipuncture."
+ },
+ {
+  "id": 256,
+  "domain": "specimen_collection",
+  "front": "What bag inspection should be done on a donor collection set before the venipuncture?",
+  "back": "Check the bag set for expiry, damage, leaks, discolouration of anticoagulant, and a matching lot number. Any defect means the set is discarded and a new one is used."
+ },
+ {
+  "id": 257,
+  "domain": "specimen_collection",
+  "front": "What is the target volume of a standard whole blood donation, and what limit applies to the amount drawn?",
+  "back": "About 450 mL, plus or minus 10 percent, collected into the anticoagulant in the primary bag. An underfilled or overfilled bag is outside the volume limit and cannot be made into a standard component."
+ },
+ {
+  "id": 258,
+  "domain": "specimen_collection",
+  "front": "Why must donor bag, segment tubes and donor record carry the same unique donation number?",
+  "back": "The matching number links every component, sample and test result to one donor, which gives full traceability for look-back and adverse event investigations."
+ },
+ {
+  "id": 259,
+  "domain": "specimen_collection",
+  "front": "What must be confirmed about a donor's identity at each donation?",
+  "back": "Check government photo identification or an approved donor record against the registration, and confirm name, date of birth and donor number before the donor questionnaire and collection continue."
+ },
+ {
+  "id": 260,
+  "domain": "specimen_collection",
+  "front": "How long must donor records be retained by the blood supplier, and why?",
+  "back": "Donor records are kept for many years, per Canadian Blood Services and national standards, so any recipient infection or reaction can be traced back to the donation and other components."
+ },
+ {
+  "id": 261,
+  "domain": "specimen_collection",
+  "front": "What is the main risk when blood bank samples are transported to the lab on hot or on frozen packs?",
+  "back": "Extreme heat or cold can cause hemolysis and affect antibody detection. Keep samples at room temperature or refrigerated per local policy, away from direct heat and ice contact."
+ },
+ {
+  "id": 262,
+  "domain": "specimen_collection",
+  "front": "Why should a pre-transfusion sample reach the transfusion service as soon as possible after collection?",
+  "back": "Delays increase hemolysis and can degrade complement and antibody reactivity. Transport promptly, upright, and in a labelled, leak-proof biohazard bag."
+ },
+ {
+  "id": 263,
+  "domain": "specimen_collection",
+  "front": "How long is a recipient's pre-transfusion sample commonly kept after the transfusion?",
+  "back": "At least 7 days after transfusion, stored refrigerated, so that a delayed reaction can be investigated with the original sample."
+ },
+ {
+  "id": 264,
+  "domain": "specimen_collection",
+  "front": "Why are the donor unit segments also retained after crossmatching and transfusion?",
+  "back": "Segments allow repeat typing and crossmatch with the recipient sample if a reaction occurs, and they are held for the same minimum period as the recipient sample."
+ },
+ {
+  "id": 265,
+  "domain": "specimen_collection",
+  "front": "Name the minimum information a transfusion request form must contain.",
+  "back": "Patient full name and second unique identifier, date of birth, location, product and quantity needed, diagnosis or reason, ordering clinician, and date and time required."
+ },
+ {
+  "id": 266,
+  "domain": "specimen_collection",
+  "front": "What should the lab do for an urgent request that arrives with missing patient information?",
+  "back": "Do not delay life-saving care. Issue emergency blood as directed, but obtain a physician's signed acknowledgement of risk and complete the missing details and documentation afterward."
+ },
+ {
+  "id": 267,
+  "domain": "specimen_collection",
+  "front": "A Jehovah's Witness patient has a transfusion order on the chart. What is the laboratory's role?",
+  "back": "Never release a product the patient has refused. Report the conflict to the ordering physician and the nurse, and document the refusal. Consent is verified by the clinician, not the lab."
+ },
+ {
+  "id": 268,
+  "domain": "specimen_collection",
+  "front": "Why is blood fractionation a personal conscience decision for Jehovah's Witness patients?",
+  "back": "Whole blood, red cells, white cells, platelets and plasma are generally refused, but albumin, clotting factors, immunoglobulins and cryoprecipitate are individual choices. The treating physician records exactly what is accepted."
+ },
+ {
+  "id": 269,
+  "domain": "specimen_collection",
+  "front": "How is an unidentified trauma patient identified for blood bank samples?",
+  "back": "A unique trauma or alias number is assigned at admission and used on the armband and all samples. It stays in use until the true identity is confirmed and a linking record is made."
+ },
+ {
+  "id": 270,
+  "domain": "specimen_collection",
+  "front": "Which red cells are issued for an unidentified trauma patient before the blood group is known?",
+  "back": "Group O red cells, usually Rh negative for females of childbearing potential, until a valid blood group is determined and a second confirming sample is tested per policy."
+ },
+ {
+  "id": 271,
+  "domain": "specimen_collection",
+  "front": "What samples are needed from the patient when a transfusion reaction is suspected?",
+  "back": "Stop the transfusion, keep the IV open with saline, and send a new post-reaction blood sample with the bag, administration set, paperwork and a urine sample. The clerical check and direct antiglobulin test follow."
+ },
+ {
+  "id": 272,
+  "domain": "specimen_collection",
+  "front": "Why compare the plasma of a pre-transfusion and a post-reaction sample by eye?",
+  "back": "Pink or red plasma in the post-reaction sample but not the pre-sample suggests intravascular hemolysis from the transfusion. It is a quick first check in a suspected hemolytic reaction."
+ },
+ {
+  "id": 273,
+  "domain": "specimen_collection",
+  "front": "What specimen is typically collected for a prenatal ABO, RhD and antibody screen?",
+  "back": "Usually one properly labelled EDTA tube from the pregnant patient. Tube type and volume follow the local procedure, and the sample is tested for ABO group, RhD type and antibody screen."
+ },
+ {
+  "id": 274,
+  "domain": "specimen_collection",
+  "front": "How recent must a pretransfusion sample be if the patient is pregnant or was transfused in the last 3 months?",
+  "back": "Collected within 3 days of the planned transfusion. Pregnancy and recent transfusion can stimulate new antibodies quickly, so an older sample may not reflect the current antibody status."
+ },
+ {
+  "id": 275,
+  "domain": "specimen_collection",
+  "front": "Why is an antibody screen done on an RhD negative pregnant patient before Rh immune globulin is given?",
+  "back": "To detect immune anti-D from earlier sensitization. A baseline screen before the dose lets later passive anti-D from the injection be recognized and not mistaken for immunization."
+ },
+ {
+  "id": 276,
+  "domain": "specimen_collection",
+  "front": "Which specimen is used to screen for a fetal-maternal hemorrhage after delivery?",
+  "back": "A maternal EDTA whole blood sample collected after delivery. A rosette test screens for RhD positive fetal cells, and a positive result is followed by quantitation."
+ },
+ {
+  "id": 277,
+  "domain": "specimen_collection",
+  "front": "What follows a positive rosette fetal screen on a maternal sample?",
+  "back": "Quantitation of the bleed by acid elution (Kleihauer-Betke) or flow cytometry. The fetal cell volume is used to calculate how many extra doses of Rh immune globulin are needed."
+ },
+ {
+  "id": 278,
+  "domain": "specimen_collection",
+  "front": "What contaminant can cause false agglutination in a cord blood sample, and how is it handled?",
+  "back": "Wharton's jelly from the cord. Wash the cord cells several times with saline before ABO, RhD and DAT testing to remove it and avoid false positive reactions."
+ },
+ {
+  "id": 279,
+  "domain": "specimen_collection",
+  "front": "Where are platelet antibody and HLA antibody samples usually sent, and why check requirements before collecting?",
+  "back": "To a reference laboratory, in Canada often Canadian Blood Services. Tube type, volume and transport conditions differ by test, so confirm them before collection to avoid recollecting."
+ },
+ {
+  "id": 280,
+  "domain": "specimen_collection",
+  "front": "What tube and temperature are commonly used for an HLA typing sample?",
+  "back": "Anticoagulated whole blood, commonly EDTA or ACD, kept at room temperature during transport. Confirm with the reference laboratory, since requirements vary by method."
+ },
+ {
+  "id": 281,
+  "domain": "specimen_collection",
+  "front": "Why is transfusion, pregnancy and transplant history requested with an HLA or platelet antibody sample?",
+  "back": "Each of these events can sensitize a patient to HLA or platelet antigens. The history helps the reference laboratory interpret the antibody results and the cause of platelet refractoriness."
+ },
+ {
+  "id": 282,
+  "domain": "specimen_collection",
+  "front": "What does chimerism testing measure after a stem cell transplant?",
+  "back": "The proportion of donor versus recipient cells in the patient's blood or marrow, usually by DNA based methods in a reference laboratory on an anticoagulated sample."
+ },
+ {
+  "id": 283,
+  "domain": "specimen_collection",
+  "front": "What delayed hemolysis can occur about 5 to 15 days after a minor ABO mismatched stem cell transplant?",
+  "back": "Passenger lymphocyte syndrome. Donor lymphocytes make anti-A or anti-B against the recipient's red cells, so an up to date ABO type of both donor and recipient is needed."
+ },
+ {
+  "id": 284,
+  "domain": "specimen_collection",
+  "front": "How is a specimen from a suspected cold agglutinin patient collected and handled?",
+  "back": "Keep it warm at 37 C from collection: use a pre-warmed tube, transport in a warm pack, clot and separate serum warm. Cooling lets the autoantibody bind cells and be lost from the serum."
+ },
+ {
+  "id": 285,
+  "domain": "specimen_collection",
+  "front": "How can a cold agglutinin interfere with room temperature ABO typing?",
+  "back": "Red cells agglutinate spontaneously, even in the negative control. Washing the cells with warm (37 C) saline removes the bound antibody and allows a valid ABO type."
+ },
+ {
+  "id": 286,
+  "domain": "specimen_collection",
+  "front": "What is the most common specificity of cold agglutinins in cold agglutinin disease?",
+  "back": "Anti-I. It reacts strongly with adult red cells, which carry the I antigen, and is most reactive at cold temperatures, with some activity at higher temperatures in pathologic cases."
+ },
+ {
+  "id": 287,
+  "domain": "specimen_collection",
+  "front": "What must be done with the needle immediately after venipuncture?",
+  "back": "Activate the safety feature and discard the needle straight into a puncture resistant sharps container. Never recap or bend a used needle, and keep the container within arm's reach."
+ },
+ {
+  "id": 288,
+  "domain": "specimen_collection",
+  "front": "What is the first action after a needlestick or splash exposure during specimen collection?",
+  "back": "Wash the wound with soap and water, or flush mucous membranes with water, then report immediately to the supervisor and occupational health for assessment and follow-up."
+ },
+ {
+  "id": 289,
+  "domain": "specimen_collection",
+  "front": "What is the purpose of accessioning a blood bank specimen when it arrives?",
+  "back": "It assigns a unique identifier that links the sample to the request and patient, recording date, time and receiver so the sample is traceable through every test step."
+ },
+ {
+  "id": 290,
+  "domain": "specimen_collection",
+  "front": "What is checked at receipt before a blood bank specimen is accepted for testing?",
+  "back": "Patient name and a second identifier on the label match the requisition, collection date, time and collector identification are present, and the sample is acceptable (volume, no gross hemolysis)."
+ },
+ {
+  "id": 291,
+  "domain": "specimen_collection",
+  "front": "How long are pretransfusion blood bank samples kept after testing, and why?",
+  "back": "At least 7 days, refrigerated. Retained samples allow repeat testing if a transfusion reaction occurs and help investigate any discrepancy after the transfusion."
+ },
+ {
+  "id": 292,
+  "domain": "specimen_collection",
+  "front": "What is done when emergency release of uncrossmatched red cells is requested?",
+  "back": "Group O red cells are issued, with a physician's signed acknowledgement of risk. A properly labelled pretransfusion sample should still be collected, ideally before the transfusion starts."
+ },
+ {
+  "id": 293,
+  "domain": "specimen_collection",
+  "front": "How are urgent (STAT) blood bank specimens handled differently from routine ones?",
+  "back": "They are received and tested ahead of routine work and the result is communicated promptly. Urgency never waives identification and labelling requirements for the sample."
+ },
+ {
+  "id": 294,
+  "domain": "specimen_collection",
+  "front": "What is done with a blood bank specimen that has a labelling discrepancy or no label?",
+  "back": "Reject it and request a new sample from the patient. Never correct, complete or relabel the tube, and document the rejection and the notification of the collector."
+ },
+ {
+  "id": 295,
+  "domain": "specimen_collection",
+  "front": "Why is relabelling a mislabelled blood bank sample prohibited?",
+  "back": "Nobody can verify the blood came from the intended patient. A wrong blood in tube error can lead to an ABO incompatible transfusion, so recollection is the only safe correction."
+ },
+ {
+  "id": 296,
+  "domain": "specimen_collection",
+  "front": "What temperature range is required for red cell components during transport?",
+  "back": "1 to 10 C. Pack with validated coolers and cold packs, include a temperature indicator, and keep red cells from touching direct ice or freezing materials."
+ },
+ {
+  "id": 297,
+  "domain": "specimen_collection",
+  "front": "When can red cells returned to the blood bank be reissued?",
+  "back": "Only if the bag is intact and a validated cooler or temperature monitor confirms 1 to 10 C throughout. Many policies also use a time limit outside controlled storage, commonly 30 minutes."
+ },
+ {
+  "id": 298,
+  "domain": "reporting",
+  "front": "What two typings must be reported together as a patient's blood group in the transfusion record?",
+  "back": "ABO group and Rh(D) type, for example A Rh(D) positive. Both are interpreted from forward (cells) and reverse (serum) grouping for ABO, and from the D antigen test for Rh."
+ },
+ {
+  "id": 299,
+  "domain": "reporting",
+  "front": "When may an ABO group be reported for a patient with a forward and reverse grouping discrepancy?",
+  "back": "Only after the discrepancy is resolved. Until then, report the group as pending or unresolved, and issue group O red cells for transfusion if the need is urgent."
+ },
+ {
+  "id": 300,
+  "domain": "reporting",
+  "front": "Why must a first-time patient's ABO and Rh be confirmed on a second, separately collected sample before routine group-specific blood is issued?",
+  "back": "It catches wrong-blood-in-tube and specimen labelling errors. A single sample with no history cannot be verified against a prior record, so a second sample provides an independent check."
+ },
+ {
+  "id": 301,
+  "domain": "reporting",
+  "front": "How is a weak D result in a recipient typically reported and managed for transfusion?",
+  "back": "Report the Rh as D positive or weak D according to laboratory policy. Many Canadian labs treat weak D recipients as Rh(D) negative for transfusion to avoid risk of alloimmunization, per local policy."
+ },
+ {
+  "id": 302,
+  "domain": "reporting",
+  "front": "What should an antibody identification report state about a detected antibody?",
+  "back": "The specificity identified (for example anti-K), the method and cells used, the antibodies excluded, and whether it is clinically significant (able to cause a transfusion reaction or hemolytic disease of the newborn)."
+ },
+ {
+  "id": 303,
+  "domain": "reporting",
+  "front": "Which commonly encountered antibodies are generally clinically significant and reported as such?",
+  "back": "Antibodies reactive at 37 C or by anti-human globulin, such as anti-D, anti-K, anti-E, anti-c, anti-Fya and anti-Jka. These require antigen-negative blood for transfusion."
+ },
+ {
+  "id": 304,
+  "domain": "reporting",
+  "front": "Why is a history of a clinically significant antibody kept on the patient record even if the antibody is no longer detectable?",
+  "back": "Antibody levels can fall below detection (evanescence) but a transfusion can trigger an anamnestic response and delayed hemolytic reaction. Antigen-negative blood is still provided."
+ },
+ {
+  "id": 305,
+  "domain": "reporting",
+  "front": "What is the purpose of reporting 'irradiated' as a component special requirement?",
+  "back": "Gamma or X-ray irradiation inactivates donor lymphocytes to prevent transfusion-associated graft-versus-host disease in at-risk recipients such as stem cell transplant patients and those receiving related donor units."
+ },
+ {
+  "id": 306,
+  "domain": "reporting",
+  "front": "What does a CMV-safe designation on a component record mean in Canada?",
+  "back": "The component is leukoreduced (a pre-storage process that removes most white cells) or from a CMV-seronegative donor, lowering the risk of transfusion-transmitted cytomegalovirus in vulnerable recipients."
+ },
+ {
+  "id": 307,
+  "domain": "reporting",
+  "front": "How is a patient's antigen-negative requirement documented when units are issued for a known antibody?",
+  "back": "Record the antibody, the antigen typing result of each issued unit (tested or confirmed negative), and the crossmatch result, so the file shows the unit was verified antigen-negative."
+ },
+ {
+  "id": 308,
+  "domain": "reporting",
+  "front": "Name one example of a critical transfusion laboratory result that requires immediate verbal notification to a clinician.",
+  "back": "An incompatible crossmatch or newly detected clinically significant antibody when blood is urgently needed, or a suspected transfusion reaction. Document who was called, the time and the read-back."
+ },
+ {
+  "id": 309,
+  "domain": "reporting",
+  "front": "What must you do when you cannot supply compatible blood in the time a clinician expects?",
+  "back": "Notify the clinician promptly, explain the reason and the expected delay, offer alternatives such as uncrossmatched group O blood after a risk discussion, and document the call."
+ },
+ {
+  "id": 310,
+  "domain": "reporting",
+  "front": "What are the essential elements of a suspected transfusion reaction report from the lab?",
+  "back": "Patient identification, component and unit numbers, time and type of reaction, clerical check, repeat ABO and DAT results, visual hemolysis check, additional testing, interpretation and the medical director review."
+ },
+ {
+  "id": 311,
+  "domain": "reporting",
+  "front": "What is the usual first step on receiving a suspected acute transfusion reaction in the lab?",
+  "back": "Perform a clerical check of the patient, unit labels and forms, then examine the post-transfusion sample for hemolysis and perform a DAT. Findings are reported to the physician without delay."
+ },
+ {
+  "id": 312,
+  "domain": "reporting",
+  "front": "When a transfusion reaction is serious, to whom does the hospital transfusion service report in Canada?",
+  "back": "Serious adverse reactions are reported to the blood supplier (Canadian Blood Services or Hema-Quebec), and to Health Canada under the Blood Regulations as required. Follow the hospital policy for timelines."
+ },
+ {
+  "id": 313,
+  "domain": "reporting",
+  "front": "A new positive DAT is found on a patient sample. What should be reported to the physician?",
+  "back": "The positive DAT result with the IgG or complement pattern, elution or antibody workup results when available, and any recent transfusion or drug history that may explain it, plus implications for crossmatching."
+ },
+ {
+  "id": 314,
+  "domain": "reporting",
+  "front": "Why is a newly detected antibody in a recently transfused patient reported promptly?",
+  "back": "It may signal a delayed hemolytic transfusion reaction or alloimmunization. The physician needs this to watch for hemolysis and to order antigen-negative blood for future transfusion."
+ },
+ {
+  "id": 315,
+  "domain": "reporting",
+  "front": "What does an antibody titre on a prenatal patient report help the clinician assess?",
+  "back": "The strength of the maternal antibody, which guides the risk of hemolytic disease of the fetus and newborn. A critical titre often triggers fetal monitoring such as middle cerebral artery Doppler."
+ },
+ {
+  "id": 316,
+  "domain": "reporting",
+  "front": "How should prenatal antibody titre results be reported to allow valid comparison between samples?",
+  "back": "Test the current serum in parallel with the previous retained sample, using the same method and reagent cells. A change of two or more dilutions is considered significant."
+ },
+ {
+  "id": 317,
+  "domain": "reporting",
+  "front": "When is a pregnant patient reported as eligible for Rh immune globulin?",
+  "back": "When she is Rh(D) negative and has no detectable anti-D produced by sensitization (passive anti-D from prior RhIG is not a barrier), typically at about 28 weeks and after delivery of an Rh(D) positive baby."
+ },
+ {
+  "id": 318,
+  "domain": "reporting",
+  "front": "What does the lab report after a fetomaternal hemorrhage screen on an Rh negative mother?",
+  "back": "The screen result (rosette or flow cytometry quantification) and the estimated volume of fetal bleed in mL, so the clinician can calculate the number of RhIG doses needed."
+ },
+ {
+  "id": 319,
+  "domain": "reporting",
+  "front": "What documentation is required when uncrossmatched blood is released in an emergency?",
+  "back": "A signed physician statement of urgent need, the units issued by number and group, the time released, and the recipient. Compatibility testing is completed retrospectively and the physician notified of any incompatibility."
+ },
+ {
+  "id": 320,
+  "domain": "reporting",
+  "front": "What is done once emergency released group O units have been transfused and the patient sample is tested?",
+  "back": "Complete ABO, Rh and crossmatch retrospectively, report results to the physician, document any incompatibility found, and record the completion time in the patient file."
+ },
+ {
+  "id": 321,
+  "domain": "reporting",
+  "front": "How should an unresolved ABO discrepancy or unexplained serologic finding be recorded in the patient file?",
+  "back": "Record the observed reactions, the investigation steps taken and a clear comment stating the result is unresolved or under investigation, with the date, initials and who was notified."
+ },
+ {
+  "id": 322,
+  "domain": "reporting",
+  "front": "How long are transfusion recipient and component traceability records generally retained in Canada?",
+  "back": "Per CSA Z902 and CSTM standards, traceability records are kept for 30 years or more, so a donor and recipient can be linked if a lookback is needed. Follow your provincial and hospital policy."
+ },
+ {
+  "id": 323,
+  "domain": "reporting",
+  "front": "What triggers a donor-based look-back investigation in a hospital transfusion service?",
+  "back": "Notification from the blood supplier that a prior donor now tests positive for a transfusion-transmissible infection. The lab identifies which components were issued and to which patients, then alerts the responsible physician."
+ },
+ {
+  "id": 324,
+  "domain": "reporting",
+  "front": "During a look-back, what must the transfusion service be able to trace from a donation number?",
+  "back": "Every component made from that donation: where it went, whether it was transfused, and the recipient's identity. This depends on complete unit-to-patient records, so traceability is only as good as the issue and disposition records."
+ },
+ {
+  "id": 325,
+  "domain": "reporting",
+  "front": "What is a recipient-based look-back, and how does it differ from a donor-based one?",
+  "back": "It starts from a recipient who develops a possible transfusion-transmitted infection. Every donor of components that patient received is traced and flagged to the blood supplier for follow-up testing, working backward from the patient to the donors."
+ },
+ {
+  "id": 326,
+  "domain": "reporting",
+  "front": "Why must the patient's transfusion history be reviewed before crossmatching or issuing blood?",
+  "back": "It shows prior reactions, special requirements (irradiated, washed, antigen-negative), previous antibodies and ABO/Rh results. Antibodies may have fallen below detection, so history helps prevent delayed hemolytic reactions."
+ },
+ {
+  "id": 327,
+  "domain": "reporting",
+  "front": "What should be added to the cumulative patient record after a transfusion episode?",
+  "back": "Components given, unit numbers, dates, any reaction and its work-up result, new antibodies identified, and any special requirements. The record must be updated promptly so the next technologist sees the full picture."
+ },
+ {
+  "id": 328,
+  "domain": "reporting",
+  "front": "A patient had an alloantibody years ago that is now undetectable. How should the record guide future units?",
+  "back": "Keep the antibody on the permanent record and issue antigen-negative, crossmatch-compatible units. Antibody levels can drop below detection, and re-exposure to the antigen can cause an anamnestic delayed hemolytic reaction."
+ },
+ {
+  "id": 329,
+  "domain": "reporting",
+  "front": "Who should be told when a suspected transfusion reaction is confirmed to involve a serious adverse event?",
+  "back": "The transfusion medicine physician, the patient's responsible physician, and the hospital transfusion safety officer. The blood supplier (Canadian Blood Services or Hema-Quebec) and provincial hemovigilance programs are notified per local policy."
+ },
+ {
+  "id": 330,
+  "domain": "reporting",
+  "front": "Why do hospitals report transfusion adverse events to Canadian Blood Services or Hema-Quebec?",
+  "back": "The supplier must investigate possible donor or manufacturing causes, quarantine related components, and notify other recipients. Reports also feed national hemovigilance data, such as the Transfusion Transmitted Injuries Surveillance System."
+ },
+ {
+  "id": 331,
+  "domain": "reporting",
+  "front": "What is a near miss in transfusion reporting, and should it be reported?",
+  "back": "An error caught before blood is given, such as a wrong-patient sample or mislabelled unit. Yes, record and review it: near misses reveal system weaknesses and are tracked within the quality program and in hemovigilance reporting."
+ },
+ {
+  "id": 332,
+  "domain": "reporting",
+  "front": "What identifiers must the record of issue link together for each component?",
+  "back": "The unit or donation number, component type, patient identifiers, date and time of issue, and the person who issued it. This lets the lab trace any unit from supplier to recipient."
+ },
+ {
+  "id": 333,
+  "domain": "reporting",
+  "front": "Why should the issue record include the time a unit left the transfusion service?",
+  "back": "It allows staff to judge storage time outside controlled temperature, supports the return-to-inventory decision, and documents compliance with the cooler or room-temperature time limits set by local policy."
+ },
+ {
+  "id": 334,
+  "domain": "reporting",
+  "front": "A unit is returned unused to the transfusion service. What must the record show before it can be reissued?",
+  "back": "The time out and back, evidence it stayed within validated temperature limits (cooler or temperature indicator), an intact seal and visual inspection. Without this proof, the unit is discarded."
+ },
+ {
+  "id": 335,
+  "domain": "reporting",
+  "front": "What categories should a unit disposition report account for?",
+  "back": "Every received unit must end as transfused, returned to inventory, transferred, wasted or discarded. A unit with no final disposition is an unresolved traceability gap that must be investigated."
+ },
+ {
+  "id": 336,
+  "domain": "reporting",
+  "front": "Why is wastage tracked with a reason code on disposition reports?",
+  "back": "Reasons such as expiry, temperature excursion, or return after time limit show where blood is lost. Trends guide inventory and ordering changes and highlight handling problems, helping reduce preventable waste."
+ },
+ {
+  "id": 337,
+  "domain": "reporting",
+  "front": "A physician's office phones asking for a patient's blood group. What is the first step?",
+  "back": "Confirm the caller's identity and authorization to receive the information under provincial privacy law and lab policy, using the requested patient's identifiers, before releasing any result. Document who received it."
+ },
+ {
+  "id": 338,
+  "domain": "reporting",
+  "front": "Who may normally receive transfusion test results without separate patient consent?",
+  "back": "Members of the patient's circle of care providing treatment, such as the ordering clinician and the care team. Other requests, for example from an employer or relative, need patient consent or legal authority under provincial privacy law."
+ },
+ {
+  "id": 339,
+  "domain": "reporting",
+  "front": "Which privacy rule covers health information handled by Ontario laboratories, and what is its general purpose?",
+  "back": "The Personal Health Information Protection Act (PHIPA). It governs how custodians collect, use, disclose and secure personal health information. Other provinces have similar statutes with their own names."
+ },
+ {
+  "id": 340,
+  "domain": "reporting",
+  "front": "A final report was issued with the wrong ABO group due to a transcription error. What is the immediate action?",
+  "back": "Notify the clinical team at once, especially if blood has been issued, issue a corrected report, and place a hold on affected products. Then start an incident investigation and document everything."
+ },
+ {
+  "id": 341,
+  "domain": "reporting",
+  "front": "How should a corrected report be presented in the patient record?",
+  "back": "It must be clearly labelled as corrected, show the original and corrected values, the date and time of the change, and who made it and why. The original entry stays visible and is never erased."
+ },
+ {
+  "id": 342,
+  "domain": "reporting",
+  "front": "After correcting a result already acted on, who must be notified and how?",
+  "back": "The responsible physician and ward staff, directly and promptly, with the notification documented. A silent update is unsafe because decisions about transfusion may already have been made on the incorrect result."
+ },
+ {
+  "id": 343,
+  "domain": "reporting",
+  "front": "A reaction report lists a severity grade of 3. What does that generally indicate?",
+  "back": "A life-threatening or severe reaction (for example needing intensive care or causing organ damage). Grades usually run from mild through severe, life-threatening and death; check your hemovigilance program's definitions."
+ },
+ {
+  "id": 344,
+  "domain": "reporting",
+  "front": "On a reaction report, which finding makes a febrile reaction abnormal enough to prompt a hemolysis work-up?",
+  "back": "A rise in temperature of 1 degree C or more with pink or red plasma, positive DAT, or a clerical discrepancy. Then the reaction is treated as potentially hemolytic until ruled out."
+ },
+ {
+  "id": 345,
+  "domain": "reporting",
+  "front": "An antibody panel summary shows anti-E ruled out on three cells but not anti-c. How does a reviewer read this?",
+  "back": "Antibodies are ruled out by non-reactive cells showing homozygous expression of the antigen. Anti-E is excluded, but anti-c is still possible, so more cells or selected cells are needed to resolve it."
+ },
+ {
+  "id": 346,
+  "domain": "reporting",
+  "front": "What should a panel summary list so a reviewer can verify an antibody identification?",
+  "back": "Reaction grades by phase, rule-outs by cell, antibodies not excluded, antigen typing of the patient, DAT and autocontrol results, and the units selected. The reviewer must be able to reproduce the conclusion."
+ },
+ {
+  "id": 347,
+  "domain": "reporting",
+  "front": "A postpartum report shows a weak fetal screen and Kleihauer-Betke estimating a large fetomaternal bleed. What follows?",
+  "back": "Calculate the Rh immune globulin dose needed for the estimated bleed, in addition to the standard dose, and report the volume and dose clearly. Document that the physician has been told and the dose given."
+ },
+ {
+  "id": 348,
+  "domain": "reporting",
+  "front": "How is an antibody titre reported, and what does a rising titre during pregnancy suggest?",
+  "back": "Reported as the reciprocal of the highest serum dilution still showing 1+ agglutination, for example 32. A rise of two or more dilutions on paired testing suggests an increasing maternal response and need for closer fetal monitoring."
+ },
+ {
+  "id": 349,
+  "domain": "reporting",
+  "front": "A pretransfusion specimen is visibly hemolyzed. Why must this be noted on the report before testing is interpreted?",
+  "back": "Pre-existing hemolysis can mask hemolysis caused by an antibody reaction in the test tube, and it can hide a transfusion reaction. Record the plasma colour, and request a new specimen if it interferes."
+ },
+ {
+  "id": 350,
+  "domain": "reporting",
+  "front": "How should in vitro hemolysis seen during a crossmatch or antibody screen be reported?",
+  "back": "Treat hemolysis as a positive reaction until proven otherwise. It may signal a potent antibody, so do not report the test as compatible. Investigate and report it as an incompatible or unresolved result."
+ },
+ {
+  "id": 351,
+  "domain": "reporting",
+  "front": "Why compare the plasma colour of a post-transfusion specimen with the pretransfusion specimen when a reaction is suspected?",
+  "back": "Pink or red plasma in the post-transfusion sample but not in the pretransfusion sample suggests intravascular hemolysis from the transfusion. Reporting this difference helps the physician and the reaction investigation."
+ },
+ {
+  "id": 352,
+  "domain": "reporting",
+  "front": "What turnaround is expected for an immediate spin crossmatch, compared with a full antiglobulin crossmatch?",
+  "back": "Immediate spin takes about 5 minutes. A full antiglobulin crossmatch takes about 45 minutes or longer. Give clinical staff the realistic wait so they can plan, and report any delay at once."
+ },
+ {
+  "id": 353,
+  "domain": "reporting",
+  "front": "Blood is needed urgently before compatibility testing is finished. What must accompany the release of uncrossmatched red cells?",
+  "back": "A signed physician acknowledgment of the risk. Group O red cells are released, ABO and Rh testing and the crossmatch continue, and any later incompatibility is reported to the physician immediately."
+ },
+ {
+  "id": 354,
+  "domain": "reporting",
+  "front": "Before a transfusion result is finalized, what clerical check catches a transcription error?",
+  "back": "Compare the entered result against the original worksheet or instrument printout, and confirm two patient identifiers on the specimen, requisition and record. A second person should verify any manually entered result."
+ },
+ {
+  "id": 355,
+  "domain": "reporting",
+  "front": "A technologist manually enters an ABO and Rh result into the laboratory information system. What control reduces transcription risk?",
+  "back": "Independent second review of manual entries, or interfaced instrument transfer so no retyping occurs. Review the entry against the raw result before release, and correct any error by a documented amendment, not by deletion."
+ },
+ {
+  "id": 356,
+  "domain": "reporting",
+  "front": "Why does the laboratory information system compare a current ABO and Rh result with the historical record?",
+  "back": "A mismatch with the historical type can reveal a wrong blood in tube error or a clerical error. The discrepancy must be resolved with a new specimen before group specific blood is issued."
+ },
+ {
+  "id": 357,
+  "domain": "reporting",
+  "front": "A patient had a clinically significant red cell antibody years ago, but today's screen is negative. How is this handled in the information system?",
+  "back": "The antibody history stays flagged permanently, because antibody levels can fall below detection. Antigen negative red cells are selected and the antiglobulin crossmatch is performed, as the record directs."
+ },
+ {
+  "id": 358,
+  "domain": "reporting",
+  "front": "How should an erroneous result in the transfusion record be corrected in the laboratory information system?",
+  "back": "Never delete the original entry. Add a documented correction showing who changed it, when and why, so the audit trail is preserved. Notify the clinician if the earlier result was already used."
+ },
+ {
+  "id": 359,
+  "domain": "reporting",
+  "front": "The forward and reverse ABO groupings do not agree. What should be reported while the problem is unresolved?",
+  "back": "Report the group as pending or discrepant, not as an interpreted type. Repeat the testing, and supply group O red cells if blood is needed before the discrepancy is resolved."
+ },
+ {
+  "id": 360,
+  "domain": "reporting",
+  "front": "When does an ABO discrepancy require a new specimen from the patient?",
+  "back": "When repeat testing on the original sample does not resolve it, or when a wrong blood in tube error is suspected. A fresh sample, collected separately with fresh identification, confirms the true group."
+ },
+ {
+  "id": 361,
+  "domain": "reporting",
+  "front": "Name common causes of ABO discrepancies that are reported as a group pending a work up.",
+  "back": "Weak or missing antibodies in newborns, the elderly or immunosuppressed patients, weak A or B subgroups, cold autoantibodies, rouleaux, and recent ABO nonidentical transplant or transfusion."
+ },
+ {
+  "id": 362,
+  "domain": "reporting",
+  "front": "A rosette test on a Rh negative mother is positive. How is the result reported and what must follow?",
+  "back": "Report a positive fetal maternal hemorrhage screen, then quantify the bleed with a Kleihauer Betke stain or flow cytometry. The quantity of fetal cells decides the number of Rh immune globulin vials needed."
+ },
+ {
+  "id": 363,
+  "domain": "reporting",
+  "front": "How much fetal blood does one 300 microgram vial of Rh immune globulin cover?",
+  "back": "One vial covers 30 mL of fetal whole blood, which is about 15 mL of fetal red cells. This is the figure used to convert a measured bleed into a dose."
+ },
+ {
+  "id": 364,
+  "domain": "reporting",
+  "front": "A Kleihauer Betke count shows 0.6% fetal cells. How do you calculate the Rh immune globulin dose?",
+  "back": "Fetal cells percent times 50 gives mL of fetal whole blood: 0.6 x 50 = 30 mL. Divide by 30 mL per vial for 1 vial, then round up or add a vial per local procedure."
+ },
+ {
+  "id": 365,
+  "domain": "reporting",
+  "front": "Which special product requirements for a patient should be flagged in the laboratory information system?",
+  "back": "Irradiated, CMV safe (leukoreduced or CMV seronegative), washed products, and antigen negative requirements. The flag must follow the patient through every admission so each issue meets the need."
+ },
+ {
+  "id": 366,
+  "domain": "reporting",
+  "front": "Name two patient groups who commonly need irradiated cellular blood components.",
+  "back": "Recipients of hematopoietic stem cell transplants, intrauterine transfusion recipients, patients on purine analogue therapy such as fludarabine, and recipients of blood from a blood relative. Irradiation prevents transfusion associated graft versus host disease."
+ },
+ {
+  "id": 367,
+  "domain": "reporting",
+  "front": "The laboratory runs low on group O Rh negative red cells. Who should be told, and how quickly?",
+  "back": "Tell the transfusion medicine physician and the blood supplier right away. Alert clinical staff to conserve stock, and follow the hospital shortage plan, which prioritizes the patients with the greatest clinical need."
+ },
+ {
+  "id": 368,
+  "domain": "reporting",
+  "front": "During a national blood shortage, what does the laboratory report to clinical staff?",
+  "back": "Current stock levels, which products are restricted, and the criteria for use set by the shortage plan. Report promptly and consistently, and document each decision made about allocation."
+ },
+ {
+  "id": 369,
+  "domain": "reporting",
+  "front": "A technologist discovers a near miss in the transfusion service. What is the correct reporting action?",
+  "back": "Report it through the occurrence reporting system at once, even though no harm occurred. Near misses reveal weak points, and the quality staff use them for root cause analysis and corrective action."
+ },
+ {
+  "id": 370,
+  "domain": "reporting",
+  "front": "What details belong in a nonconformance or incident report?",
+  "back": "What happened, when and where, the patient and product involved, who was told, and immediate actions taken. Record facts only, not blame, so quality staff can find the cause and prevent recurrence."
+ },
+ {
+  "id": 371,
+  "domain": "reporting",
+  "front": "A serious transfusion reaction occurs. Besides the physician, who else is the laboratory expected to notify?",
+  "back": "The quality or transfusion safety staff, and the blood supplier, as provincial and supplier rules require. The report triggers investigation, quarantine of related components, and any further regulatory reporting."
+ },
+ {
+  "id": 372,
+  "domain": "reporting",
+  "front": "A group A donor kidney goes to a group O recipient. What rule governs red cell selection after transplant?",
+  "back": "Red cells must be group O, compatible with the recipient and with the donor ABO group. Record both ABO groups in the laboratory information system so the rule is applied at every issue."
+ },
+ {
+  "id": 373,
+  "domain": "reporting",
+  "front": "Why must the donor ABO group be recorded for a transplant patient, and how does it affect plasma selection?",
+  "back": "Plasma and platelet components must not contain antibodies against either the recipient or the donor red cells, so the usual group specific rules change. The flag prevents issue of an incompatible product."
+ },
+ {
+  "id": 374,
+  "domain": "quality_assurance",
+  "front": "How often must antisera and reagent red cells be quality controlled in a transfusion service?",
+  "back": "On each day of use, with a known positive and a known negative control, before patient results are reported. A failed control means reagent is not used until the cause is found and resolved."
+ },
+ {
+  "id": 375,
+  "domain": "quality_assurance",
+  "front": "What does a reagent red cell QC check with a known antibody need to show to be acceptable?",
+  "back": "The expected reaction strength with the matching antiserum (positive) and no reaction with a non-reactive serum (negative). Weak or unexpected reactivity means the cells may be deteriorating, so do not use them."
+ },
+ {
+  "id": 376,
+  "domain": "quality_assurance",
+  "front": "What visual check is done on reagents and reagent red cells each time they are used?",
+  "back": "Look for hemolysis, turbidity, particles, colour change or leaks. These signs suggest contamination or deterioration, so the vial is quarantined and QC is repeated before any patient testing continues."
+ },
+ {
+  "id": 377,
+  "domain": "quality_assurance",
+  "front": "How should a proficiency testing sample be handled in the blood bank?",
+  "back": "Test it exactly like a patient sample, with the routine staff, method and equipment. Do not share results with other labs before submission, and do not repeat the test more often than a patient sample would be repeated."
+ },
+ {
+  "id": 378,
+  "domain": "quality_assurance",
+  "front": "A laboratory gets an unsatisfactory proficiency testing result. What is the required response?",
+  "back": "Investigate the cause (clerical, technical, reagent or method), document the findings, apply corrective action, and review recent patient results for impact. Record who reviewed it and how recurrence will be prevented."
+ },
+ {
+  "id": 379,
+  "domain": "quality_assurance",
+  "front": "What temperature range is required for stored red cell components in a blood bank refrigerator?",
+  "back": "1 to 6 degrees C. Refrigerators are monitored continuously or recorded at set intervals, and an alarm must sound before the temperature drifts outside this range so components can be moved in time."
+ },
+ {
+  "id": 380,
+  "domain": "quality_assurance",
+  "front": "What temperature and handling does a platelet incubator require?",
+  "back": "20 to 24 degrees C with continuous gentle agitation. Platelets are never refrigerated, since cold causes the cells to change shape and clear quickly from circulation after transfusion."
+ },
+ {
+  "id": 381,
+  "domain": "quality_assurance",
+  "front": "Why should a refrigerator alarm be set to trigger before the allowed limit is reached?",
+  "back": "The alarm needs lead time so staff can transfer components to a working unit before they are out of range. An alarm set at the limit itself gives no time to protect the inventory."
+ },
+ {
+  "id": 382,
+  "domain": "quality_assurance",
+  "front": "What is the storage temperature requirement for frozen plasma and cryoprecipitate?",
+  "back": "Minus 18 degrees C or colder in a monitored freezer. Frozen components that warm above this limit may lose labile clotting factors, so a temperature excursion must be assessed before the unit is used."
+ },
+ {
+  "id": 383,
+  "domain": "quality_assurance",
+  "front": "Where does a unit's expiry date come from, and when is it changed?",
+  "back": "The supplier (Canadian Blood Services or Hema-Quebec) sets it on the label. It shortens after processing steps such as thawing, pooling or opening a closed system, and the new expiry must be relabelled and recorded."
+ },
+ {
+  "id": 384,
+  "domain": "quality_assurance",
+  "front": "Why are red cells stored at 1 to 6 degrees C rather than room temperature?",
+  "back": "Cold slows red cell metabolism and bacterial growth. Units can be out of the refrigerator only for the limited time allowed by the local procedure, and then must be returned or discarded."
+ },
+ {
+  "id": 385,
+  "domain": "quality_assurance",
+  "front": "When must new equipment or a new reagent lot be validated in a blood bank?",
+  "back": "Before it is used for patient testing, and again after major repair, relocation or a change in method. Validation shows the system gives correct results in your own lab using known samples."
+ },
+ {
+  "id": 386,
+  "domain": "quality_assurance",
+  "front": "What does validation of a laboratory computer system involve, for example electronic crossmatch?",
+  "back": "Testing that every rule works with expected pass and fail cases (for example ABO incompatibility is blocked), documenting results, and getting sign-off before go-live. Re-test after any software change."
+ },
+ {
+  "id": 387,
+  "domain": "quality_assurance",
+  "front": "How is a serologic centrifuge kept reliable?",
+  "back": "Calibrate speed (rpm) and timer on a scheduled basis, and confirm the spin time gives the proper cell button for the test. Record results and remove the unit from service if it is out of tolerance."
+ },
+ {
+  "id": 388,
+  "domain": "quality_assurance",
+  "front": "How should a blood bank thermometer be verified?",
+  "back": "Compare it against a reference thermometer traceable to a recognized standard, at scheduled intervals. Record the correction and take out of service any device that is outside tolerance."
+ },
+ {
+  "id": 389,
+  "domain": "quality_assurance",
+  "front": "What routine checks apply to a gel card incubator and centrifuge?",
+  "back": "Verify the incubator holds 37 degrees C, check the centrifuge programme (speed and time) and perform cleaning and maintenance on schedule. Keep records of every check, repair and who performed them."
+ },
+ {
+  "id": 390,
+  "domain": "quality_assurance",
+  "front": "On a gel card run, the positive control is negative. What happens to the patient results?",
+  "back": "The run is invalid. Patient results are not reported, the cause is investigated (reagent, card, incubation, instrument), and the testing is repeated only after the controls perform as expected."
+ },
+ {
+  "id": 391,
+  "domain": "quality_assurance",
+  "front": "What are acceptable results for the positive and negative controls on a daily blood bank run?",
+  "back": "The positive control reacts at the expected strength and the negative control shows no reaction. Any control outside these results blocks reporting until resolved and documented."
+ },
+ {
+  "id": 392,
+  "domain": "quality_assurance",
+  "front": "Why do QC rules such as Westgard multirules matter less for most blood bank serology than for chemistry?",
+  "back": "Serology results are qualitative (reactive or not), so QC uses expected reaction grades, not mean and standard deviation. Acceptance is a pass or fail against the expected result, with trend review for weakening reactions."
+ },
+ {
+  "id": 393,
+  "domain": "quality_assurance",
+  "front": "What is the difference between a deviation and a nonconformance?",
+  "back": "A deviation is any departure from procedure or specification, noticed at the time. A nonconformance is a documented failure to meet a requirement, and it triggers investigation, correction and review."
+ },
+ {
+  "id": 394,
+  "domain": "quality_assurance",
+  "front": "What are root cause analysis and corrective and preventive action (CAPA)?",
+  "back": "Root cause analysis finds why the error happened (tools: 5 whys, fishbone). Corrective action fixes the problem now, and preventive action changes the process so it does not recur. Both are documented and checked later."
+ },
+ {
+  "id": 395,
+  "domain": "quality_assurance",
+  "front": "What does CSA Z902 cover?",
+  "back": "The Canadian standard for blood and blood components, setting quality system requirements for collection, processing, storage, testing and transfusion. It is used alongside Health Canada's Blood Regulations."
+ },
+ {
+  "id": 396,
+  "domain": "quality_assurance",
+  "front": "What does ISO 15189 specify, and who accredits to it in Canada?",
+  "back": "It sets quality and competence requirements for medical laboratories. In Canada, accreditation is provided through programs such as Accreditation Canada Diagnostics and provincial programs, including Ontario Laboratory Accreditation."
+ },
+ {
+  "id": 397,
+  "domain": "quality_assurance",
+  "front": "What is document control in a transfusion service, and what is the basic rule?",
+  "back": "Only the current approved version of a procedure is available at the bench. Old versions are withdrawn and archived for the retention period, and every revision is reviewed, approved and dated."
+ },
+ {
+  "id": 398,
+  "domain": "quality_assurance",
+  "front": "What must happen before staff use a newly revised SOP?",
+  "back": "Staff must be trained on the change, and their training must be documented with a sign-off. Competency is assessed where the change affects testing, before they perform the new procedure on patient samples."
+ },
+ {
+  "id": 399,
+  "domain": "quality_assurance",
+  "front": "When must a blood bank technologist's competency be assessed, and what should the record show?",
+  "back": "Competency is assessed before independent work, then at regular intervals (at least annually) and after major procedure changes. The record shows the task, method of assessment, date, result, assessor and any retraining."
+ },
+ {
+  "id": 400,
+  "domain": "quality_assurance",
+  "front": "What are common methods used to assess blood bank staff competency?",
+  "back": "Direct observation of testing, review of recorded results, testing of blind or previously characterized samples, problem solving questions and review of worksheets. Several methods together give a fuller picture than one."
+ },
+ {
+  "id": 401,
+  "domain": "quality_assurance",
+  "front": "A technologist fails a competency assessment on antibody identification. What is the correct response?",
+  "back": "Remove the person from that task unsupervised, provide documented retraining, then reassess before independent work resumes. Record the failure, the corrective action and the successful reassessment in the training file."
+ },
+ {
+  "id": 402,
+  "domain": "quality_assurance",
+  "front": "What does first in, first out (FIFO) mean for blood bank inventory?",
+  "back": "Units or reagents with the earliest expiry are placed forward and issued first, when compatible and appropriate. FIFO reduces outdating and wastage. Check expiry dates at every stock rotation."
+ },
+ {
+  "id": 403,
+  "domain": "quality_assurance",
+  "front": "What is a par level in blood bank inventory management?",
+  "back": "The target stock quantity of a product, such as group O red cells, that the blood bank aims to hold. It is based on usage and delivery time, and falling below it triggers a reorder."
+ },
+ {
+  "id": 404,
+  "domain": "quality_assurance",
+  "front": "Why is an inventory of reagent red cells and antisera checked for expiry on a routine schedule?",
+  "back": "Expired reagents can give false or weak results. A scheduled check removes outdated stock before use and gives time to order replacements. Document the check, the date and who performed it."
+ },
+ {
+  "id": 405,
+  "domain": "quality_assurance",
+  "front": "Which are the most common reasons blood components are discarded by a transfusion service?",
+  "back": "Outdating, temperature excursions during storage or transport, product returned without proper storage, damaged bags, and units not used after crossmatch. Tracking reasons shows where to improve."
+ },
+ {
+  "id": 406,
+  "domain": "quality_assurance",
+  "front": "Why do transfusion services track wastage by reason and by product type?",
+  "back": "Patterns show the root cause, for example poor inventory levels, returns outside storage limits or transport issues. Trends guide corrective action, such as changing par levels or training staff on returns."
+ },
+ {
+  "id": 407,
+  "domain": "quality_assurance",
+  "front": "How can blood bank outdating be reduced without risking shortages?",
+  "back": "Match par levels to actual usage, rotate stock FIFO, and share near-expiry units with other sites or the supplier. Review outdate rates regularly against the goals set by the transfusion service."
+ },
+ {
+  "id": 408,
+  "domain": "quality_assurance",
+  "front": "What does traceability of a blood component mean?",
+  "back": "Records link each component from donor to final fate, whether transfused, discarded or returned, with the recipient identified. This makes lookback and recall investigations possible."
+ },
+ {
+  "id": 409,
+  "domain": "quality_assurance",
+  "front": "What must a transfusion record include to maintain a full audit trail?",
+  "back": "The unique unit number, component type, recipient identification, test results, who issued and who transfused, with dates and times. Records must be legible, retrievable and retained for the period required by regulation and policy."
+ },
+ {
+  "id": 410,
+  "domain": "quality_assurance",
+  "front": "Why must a corrected entry in a blood bank record never obscure the original entry?",
+  "back": "The original entry must stay readable so the audit trail is intact. Draw a single line through it, add the correction with date and initials, and give a reason if needed. Never erase or use correction fluid."
+ },
+ {
+  "id": 411,
+  "domain": "quality_assurance",
+  "front": "What must be done before a new lot of antisera or reagent red cells is put into routine use?",
+  "back": "Test the new lot in parallel with the current lot, using known positive and negative controls. Confirm expected reactivity and record the results. Use only if the new lot passes and the record is reviewed."
+ },
+ {
+  "id": 412,
+  "domain": "quality_assurance",
+  "front": "Why are weak positive controls useful when verifying a new reagent lot?",
+  "back": "A weak control shows whether the reagent can detect low levels of antibody or antigen. A strongly reactive control alone could hide a lot that has poor sensitivity."
+ },
+ {
+  "id": 413,
+  "domain": "quality_assurance",
+  "front": "What is the crossmatch to transfusion (C:T) ratio, and what does a high ratio suggest?",
+  "back": "C:T ratio is the number of units crossmatched divided by the number transfused. A high ratio suggests units are crossmatched but not used, tying up inventory and risking wastage. A ratio near 1.0 to 2.0 is often cited as efficient."
+ },
+ {
+  "id": 414,
+  "domain": "quality_assurance",
+  "front": "How can a transfusion service lower its C:T ratio?",
+  "back": "Use a maximum surgical blood order schedule, apply the type and screen policy for low-use procedures, and release crossmatched units back to inventory promptly. Review ratios by clinical service and report them."
+ },
+ {
+  "id": 415,
+  "domain": "quality_assurance",
+  "front": "Name two quality indicators a transfusion service commonly monitors.",
+  "back": "Examples are wastage rate, C:T ratio, turnaround time for urgent crossmatch, sample rejection rate and transfusion reactions reported. Indicators are tracked against set goals and reviewed by management."
+ },
+ {
+  "id": 416,
+  "domain": "quality_assurance",
+  "front": "What is the difference between a recall and a market withdrawal of a blood component?",
+  "back": "A recall removes products that may be defective or unsafe, so there is a possible risk to health. A market withdrawal removes products for minor issues that do not pose a health risk. Both need prompt action and documentation."
+ },
+ {
+  "id": 417,
+  "domain": "quality_assurance",
+  "front": "A supplier recalls a component lot. What should the transfusion service do first?",
+  "back": "Quarantine all affected units on hand, identify any already issued or transfused using traceability records, notify the responsible physician as required and document each action. Return or discard the units as the supplier directs."
+ },
+ {
+  "id": 418,
+  "domain": "quality_assurance",
+  "front": "A positive control fails in a transfusion test run. What is the correct action?",
+  "back": "Stop reporting patient results from that run, investigate possible causes (reagent, equipment, technique, controls), correct the problem, then repeat the control and the affected tests. Document everything."
+ },
+ {
+  "id": 419,
+  "domain": "quality_assurance",
+  "front": "Why must patient results never be released after a failed control until the failure is resolved?",
+  "back": "A failed control means the test system may not be working as expected, so results could be false. Release only after the cause is found, corrected and a repeated control gives the expected result."
+ },
+ {
+  "id": 420,
+  "domain": "quality_assurance",
+  "front": "Blood stored in a refrigerator was found at 8 C. What must be documented about the excursion?",
+  "back": "Record the time and duration, the temperature reached, the units affected, the likely cause and the action taken. Include a documented decision, by an authorized person, on whether each unit can be kept or must be discarded."
+ },
+ {
+  "id": 421,
+  "domain": "quality_assurance",
+  "front": "What information is used to decide the fate of components after a temperature excursion?",
+  "back": "The component type, the temperature and time outside the required range, supplier or policy limits, and the unit's history, such as transport. If acceptability cannot be shown, discard the unit and record the reason."
+ },
+ {
+  "id": 422,
+  "domain": "quality_assurance",
+  "front": "How do you prevent cross-contamination of reagent red cells and antisera during blood bank testing?",
+  "back": "Use a clean dropper or pipette tip for each reagent, never touch the vial's dropper to a tube, close vials promptly and return them to storage. Contaminated reagents can give false reactions."
+ },
+ {
+  "id": 423,
+  "domain": "quality_assurance",
+  "front": "What visual signs suggest a reagent red cell or antiserum vial is contaminated or deteriorated?",
+  "back": "Cloudiness, turbidity, clots, particles, unusual colour or marked hemolysis in the supernatant. Remove the vial from use, record it and test with a fresh vial before reporting results."
+ },
+ {
+  "id": 424,
+  "domain": "equipment",
+  "front": "What does a serologic centrifuge calibration check confirm before it is used for blood bank testing?",
+  "back": "That speed (rpm, checked with a tachometer) and timer are accurate, and that the set time gives proper cell packing without over-spinning. Repeat on the laboratory's schedule, often quarterly."
+ },
+ {
+  "id": 425,
+  "domain": "equipment",
+  "front": "Why is the optimal spin time for a serologic centrifuge established by calibration rather than by guessing?",
+  "back": "Too short a spin leaves cells loosely packed and reactions hard to read; too long can pack cells so tightly that agglutinates will not resuspend, giving false negatives."
+ },
+ {
+  "id": 426,
+  "domain": "equipment",
+  "front": "After a centrifuge is repaired or moved, what should happen before it returns to routine blood bank use?",
+  "back": "Its speed, timer and spin-time performance are rechecked and documented. Repairs and relocation can change calibration, so past records no longer prove it is working correctly."
+ },
+ {
+  "id": 427,
+  "domain": "equipment",
+  "front": "What is an automated cell washer's job in antiglobulin testing?",
+  "back": "It fills tubes with saline, spins, decants and repeats washes, removing unbound serum globulins. Leftover free IgG would neutralize the antihuman globulin reagent and cause false negatives."
+ },
+ {
+  "id": 428,
+  "domain": "equipment",
+  "front": "How do you verify a cell washer is washing effectively and AHG reagent is working?",
+  "back": "Add IgG-coated check cells to a negative antiglobulin tube after washing. A positive result shows washing and reagent worked; a negative result means a failure to investigate."
+ },
+ {
+  "id": 429,
+  "domain": "equipment",
+  "front": "What does a blood bank gel card incubator need to hold, and how is it monitored?",
+  "back": "Temperature at 37 C within the manufacturer's tolerance and the set time, checked with a calibrated thermometer on each day of use and recorded. Out-of-range temperature means cards cannot be used."
+ },
+ {
+  "id": 430,
+  "domain": "equipment",
+  "front": "Why must the gel card centrifuge be a dedicated unit with fixed programmed speed and time?",
+  "back": "Gel cards need a specific gentle force and spin time to pass cells through the gel correctly. Wrong speed or time causes cells to stay on top or smear, giving misleading reactions."
+ },
+ {
+  "id": 431,
+  "domain": "equipment",
+  "front": "What routine maintenance check applies to gel card incubators and centrifuges besides temperature?",
+  "back": "Verification of timers, speed, and cleanliness, with periodic preventive maintenance by a qualified person. Document each check; unrecorded checks are treated as not done during an audit."
+ },
+ {
+  "id": 432,
+  "domain": "equipment",
+  "front": "What quality control is typically run each day of use on an automated blood bank analyzer?",
+  "back": "Reagent red cells and antisera with known reactions (positive and negative controls) for each test type. If a control fails, patient results are not released until the cause is corrected."
+ },
+ {
+  "id": 433,
+  "domain": "equipment",
+  "front": "What is a key benefit of positive sample identification in automated blood bank analyzers?",
+  "back": "Barcode reading links the patient sample, reagent and result, reducing transcription errors. Operators still review flagged or discrepant results rather than accepting every automated interpretation."
+ },
+ {
+  "id": 434,
+  "domain": "equipment",
+  "front": "What temperature range must a blood bank refrigerator maintain for stored red cells?",
+  "back": "1 to 6 C, monitored continuously. Below 1 C risks hemolysis from freezing, and above 6 C allows bacterial growth and faster red cell deterioration."
+ },
+ {
+  "id": 435,
+  "domain": "equipment",
+  "front": "What is the storage temperature for frozen plasma components in a blood bank freezer?",
+  "back": "-18 C or colder. Keeping plasma frozen preserves coagulation factors, and the freezer needs continuous temperature monitoring and an alarm like the refrigerator does."
+ },
+ {
+  "id": 436,
+  "domain": "equipment",
+  "front": "Why must a blood bank refrigerator alarm trigger before the unit reaches the unacceptable limit?",
+  "back": "The alarm should warn staff while the temperature is drifting, with enough time to move units before they are compromised. Alarm function and its set points are tested on a regular schedule."
+ },
+ {
+  "id": 437,
+  "domain": "equipment",
+  "front": "At what temperature and with what motion must platelet components be stored?",
+  "back": "20 to 24 C with continuous gentle agitation. Agitation allows gas exchange, which helps maintain pH and platelet function. Never store platelets in a refrigerator."
+ },
+ {
+  "id": 438,
+  "domain": "equipment",
+  "front": "What happens to platelets stored without agitation or outside 20 to 24 C?",
+  "back": "They can aggregate and the pH can fall, harming viability. Cold storage causes irreversible platelet changes, so the agitator and incubator temperature are checked and recorded daily."
+ },
+ {
+  "id": 439,
+  "domain": "equipment",
+  "front": "What temperature range is used for a plasma thawer or water bath thawing frozen plasma?",
+  "back": "30 to 37 C, validated for the equipment used. Excess heat denatures coagulation factors, so the thawer is monitored and thawing time is controlled."
+ },
+ {
+  "id": 440,
+  "domain": "equipment",
+  "front": "What is the upper temperature limit for a blood warmer used for transfusion?",
+  "back": "Blood must never be heated above 42 C, because higher temperatures cause red cell hemolysis. Approved warmers have a visible thermometer and an audible alarm, and are checked routinely."
+ },
+ {
+  "id": 441,
+  "domain": "equipment",
+  "front": "Why is a blood warmer used only when clinically indicated, such as massive or rapid transfusion?",
+  "back": "Rapid infusion of cold units can cause hypothermia and cardiac arrhythmia. Routine small transfusions do not require warming, and warming is done only with an approved device, never a microwave."
+ },
+ {
+  "id": 442,
+  "domain": "equipment",
+  "front": "What is the main check on a blood bank heat block or water bath at 37 C?",
+  "back": "Temperature verified with a calibrated thermometer in a water-filled well each day of use, and the water level and cleanliness checked. Results outside the tolerance are corrected before testing."
+ },
+ {
+  "id": 443,
+  "domain": "equipment",
+  "front": "Which elution method requires a water bath near 56 C?",
+  "back": "Heat elution, which releases antibody from red cell membranes by warming the cells with saline. Temperature accuracy matters, so the bath is monitored with a calibrated thermometer."
+ },
+ {
+  "id": 444,
+  "domain": "equipment",
+  "front": "What does a sterile connecting device do in component preparation?",
+  "back": "It welds two pieces of tubing together under sterile conditions, keeping the system closed. This lets labs pool or split components without shortening the expiry that an open system would impose."
+ },
+ {
+  "id": 445,
+  "domain": "equipment",
+  "front": "How is a tube sealer's work checked after sealing blood component segments?",
+  "back": "Inspect each seal for completeness and leaks, with equipment function checked on schedule. A faulty seal can leak or contaminate, so the segment is resealed or the unit is reassessed."
+ },
+ {
+  "id": 446,
+  "domain": "equipment",
+  "front": "What is the purpose of irradiating cellular blood components?",
+  "back": "To prevent transfusion-associated graft versus host disease by inactivating donor lymphocytes. Typical doses are 25 Gy at the central point of the bag, with no part below 15 Gy."
+ },
+ {
+  "id": 447,
+  "domain": "equipment",
+  "front": "What is verified for a blood irradiator to confirm components received the correct dose?",
+  "back": "Dose delivery is confirmed with a radiation-sensitive indicator on each irradiated bag and periodic dosimetry or calibration. A missing or unchanged indicator means the component is not treated as irradiated."
+ },
+ {
+  "id": 448,
+  "domain": "equipment",
+  "front": "What does a leukoreduction filter achieve, and what residual white cell count is the common target?",
+  "back": "It removes white cells from red cells or platelets, reducing febrile reactions, HLA alloimmunization and CMV transmission risk. A common target is fewer than 5 x 10^6 white cells per unit."
+ },
+ {
+  "id": 449,
+  "domain": "safety",
+  "front": "What is the basic rule of standard (universal) precautions in the transfusion laboratory?",
+  "back": "Treat all blood, components and body fluids as potentially infectious, regardless of the donor or patient status. Apply the same barrier and handling practices to every specimen and unit, every time."
+ },
+ {
+  "id": 450,
+  "domain": "safety",
+  "front": "Which personal protective equipment is the minimum when handling blood specimens and units?",
+  "back": "Fully fastened lab coat and gloves, with eye and face protection added whenever splashes or aerosols are possible. Remove gloves and wash hands before leaving the work area or touching phones and keyboards."
+ },
+ {
+  "id": 451,
+  "domain": "safety",
+  "front": "When must you change gloves during blood bank work?",
+  "back": "Change when torn, visibly contaminated, or after finishing a task, and never reuse or wash them. Gloves do not replace hand hygiene, so wash hands each time gloves come off."
+ },
+ {
+  "id": 452,
+  "domain": "safety",
+  "front": "Why should you never recap, bend or break used needles by hand?",
+  "back": "Hand recapping is a leading cause of needlestick injuries. Discard the needle straight into a puncture-resistant sharps container at the point of use, without detaching or manipulating it."
+ },
+ {
+  "id": 453,
+  "domain": "safety",
+  "front": "What is the usual first step in cleaning up a blood spill on a bench?",
+  "back": "Wear gloves and a lab coat, then cover the spill with absorbent paper towel to contain it. Clean up visible blood first, then apply disinfectant, because bleach is weakened by organic material."
+ },
+ {
+  "id": 454,
+  "domain": "safety",
+  "front": "What common dilution of household bleach is used to disinfect a blood spill?",
+  "back": "A 1 in 10 dilution of household bleach (about 5000 ppm, roughly 0.5% sodium hypochlorite). Prepare it fresh, at least daily, because diluted bleach loses strength quickly."
+ },
+ {
+  "id": 455,
+  "domain": "safety",
+  "front": "How long should a bleach solution stay in contact with a cleaned blood spill surface?",
+  "back": "Leave it wet on the surface for at least 10 minutes (follow your laboratory procedure) before wiping with water. Shorter contact time may not kill bloodborne pathogens."
+ },
+ {
+  "id": 456,
+  "domain": "safety",
+  "front": "Why must bleach never be mixed with acids or ammonia-based cleaners?",
+  "back": "The mix releases toxic gases (chlorine gas with acids, chloramine with ammonia). Use bleach alone, in a ventilated area, and keep it away from other cleaning chemicals."
+ },
+ {
+  "id": 457,
+  "domain": "safety",
+  "front": "What does WHMIS 2015 stand for and what does it align with?",
+  "back": "Workplace Hazardous Materials Information System 2015, Canada's hazard communication system. It aligns with the Globally Harmonized System (GHS) for hazard classification, labels and safety data sheets."
+ },
+ {
+  "id": 458,
+  "domain": "safety",
+  "front": "How many sections does a WHMIS 2015 safety data sheet (SDS) contain?",
+  "back": "Sixteen sections, in a fixed order, covering identification, hazards, composition, first aid, firefighting, spill response, handling and storage, exposure controls, and disposal. Workers must have access to the SDS."
+ },
+ {
+  "id": 459,
+  "domain": "safety",
+  "front": "Which WHMIS pictogram applies to a corrosive reagent such as a strong acid or base?",
+  "back": "The corrosion pictogram, showing liquid dripping onto a hand and a surface. It warns of skin burns, serious eye damage and metal corrosion, so use gloves, goggles and a fume-safe workspace."
+ },
+ {
+  "id": 460,
+  "domain": "safety",
+  "front": "What is the WHMIS pictogram for infectious material like blood specimens?",
+  "back": "Biohazardous infectious materials: a trefoil of three crescent shapes inside a circle. It is the Canada-specific WHMIS pictogram for organisms or toxins that cause disease in people or animals."
+ },
+ {
+  "id": 461,
+  "domain": "safety",
+  "front": "What must a workplace label show when a hazardous liquid is poured into a smaller container?",
+  "back": "The product identifier and safe handling information, plus a reference that an SDS is available. A decanted container with no label is a WHMIS violation, even if used within the same shift."
+ },
+ {
+  "id": 462,
+  "domain": "safety",
+  "front": "What is the first aid for a needlestick or sharps injury?",
+  "back": "Let the wound bleed freely, wash with soap and running water, and flush eyes or mucous membranes with water. Do not squeeze or scrub the wound, and do not apply bleach to skin."
+ },
+ {
+  "id": 463,
+  "domain": "safety",
+  "front": "What must you do immediately after a sharps or blood exposure incident?",
+  "back": "Report to your supervisor right away and seek urgent medical assessment, since post-exposure prophylaxis for HIV works best when started within hours. Complete an incident report and keep the follow-up testing schedule."
+ },
+ {
+  "id": 464,
+  "domain": "safety",
+  "front": "Why is source-patient testing part of exposure follow-up?",
+  "back": "Knowing the source's HIV, hepatitis B and hepatitis C status, with appropriate consent, guides whether prophylaxis and exposed-worker testing are needed. Baseline testing of the exposed worker is also done."
+ },
+ {
+  "id": 465,
+  "domain": "safety",
+  "front": "What is the temperature of dry ice and what hazard does it create in a closed room?",
+  "back": "About minus 78.5 degrees C. It sublimates into carbon dioxide gas, which can build up in poorly ventilated spaces and cause asphyxiation, so use it in ventilated areas only."
+ },
+ {
+  "id": 466,
+  "domain": "safety",
+  "front": "Why must dry ice never be sealed in an airtight container?",
+  "back": "As it sublimates, carbon dioxide pressure builds and can burst the container or cause an explosion. Use a vented, insulated shipper and handle the dry ice with insulated gloves, never bare hands."
+ },
+ {
+  "id": 467,
+  "domain": "safety",
+  "front": "What are the main dangers of liquid nitrogen and the protective equipment required?",
+  "back": "It is about minus 196 degrees C, causing severe cold burns, and it displaces oxygen as it evaporates. Wear cryogenic gloves, a face shield, apron and closed shoes, and work in a ventilated area."
+ },
+ {
+  "id": 468,
+  "domain": "safety",
+  "front": "How should used sharps and contaminated blood bags be disposed of?",
+  "back": "Place sharps in a rigid, puncture-resistant container, closed when about three-quarters full. Discard blood bags and contaminated waste as biomedical waste in labelled containers, per provincial regulation and your facility procedure."
+ },
+ {
+  "id": 469,
+  "domain": "safety",
+  "front": "How are reagent red cells and expired or discarded blood units treated for disposal?",
+  "back": "As biohazardous waste: they are collected in labelled biomedical waste containers and treated (autoclaved or incinerated) by the facility or a licensed contractor, never poured down a sink or put in regular garbage."
+ },
+ {
+  "id": 470,
+  "domain": "safety",
+  "front": "What three principles reduce radiation dose when working near a blood irradiator?",
+  "back": "Minimize time, maximize distance, and use shielding (ALARA, as low as reasonably achievable). Never bypass the door interlock, and wear any assigned dosimeter badge if your site requires one."
+ },
+ {
+  "id": 471,
+  "domain": "safety",
+  "front": "Which Canadian act governs the shipping of dangerous goods such as dry ice and infectious substances?",
+  "back": "The Transport of Dangerous Goods (TDG) Act and Regulations. Dry ice is UN1845 (Class 9), and diagnostic specimens are UN3373 Biological Substance Category B, packed in triple packaging."
+ },
+ {
+  "id": 472,
+  "domain": "safety",
+  "front": "Why must centrifuge tubes be balanced and buckets closed during a spin?",
+  "back": "Opposing tubes must be equal in weight and volume to prevent vibration and rotor damage. Closed buckets or safety caps contain aerosols if a tube breaks, and the lid stays shut until the rotor has fully stopped."
+ },
+ {
+  "id": 473,
+  "domain": "safety",
+  "front": "What is the correct action for a chemical splash in the eye and how long should you flush?",
+  "back": "Go to the eyewash station immediately and flush with a steady stream of water for at least 15 minutes, holding the eyelids open. Remove contact lenses if possible, then get medical help."
+ },
+ {
+  "id": 474,
+  "domain": "professionalism",
+  "front": "What does scope of practice mean for a medical laboratory technologist working in a transfusion service?",
+  "back": "It is the set of activities an MLT is educated, authorized and competent to perform under provincial regulation. Tasks outside it, such as medical interpretation or ordering treatment, belong to other professionals."
+ },
+ {
+  "id": 475,
+  "domain": "professionalism",
+  "front": "Who sets practice standards and handles complaints about registered MLTs in most Canadian provinces?",
+  "back": "The provincial regulatory college (for example CMLTO in Ontario). It registers members, publishes standards of practice, investigates complaints and can impose discipline to protect the public."
+ },
+ {
+  "id": 476,
+  "domain": "professionalism",
+  "front": "Why must a transfusion technologist follow the provincial college's standards even when the hospital lab has its own policy?",
+  "back": "Registration is tied to the college, so its standards of practice apply personally to the MLT. Employer policy may add requirements, but it cannot lower the professional standard."
+ },
+ {
+  "id": 477,
+  "domain": "professionalism",
+  "front": "A nurse's friend asks you whether a named patient received blood. What is the correct response?",
+  "back": "Decline to share. Transfusion records are personal health information, released only for care, to authorized persons, or as law allows. Curiosity or a personal relationship is not a valid reason."
+ },
+ {
+  "id": 478,
+  "domain": "professionalism",
+  "front": "Name the type of law that governs how Canadian laboratories collect, use and disclose personal health information.",
+  "back": "Provincial health privacy legislation, such as Ontario's PHIPA, together with applicable provincial or federal privacy law. Labs act as custodians or agents and must safeguard patient records, including blood bank results."
+ },
+ {
+  "id": 479,
+  "domain": "professionalism",
+  "front": "What is the circle of care in the context of transfusion records?",
+  "back": "The providers directly involved in a patient's care who may access information needed for that care. A technologist outside that need, such as a curious colleague, should not look up the record."
+ },
+ {
+  "id": 480,
+  "domain": "professionalism",
+  "front": "Why is browsing a patient's transfusion history without a work reason considered a privacy breach?",
+  "back": "Access must be limited to what the job requires. Looking up records out of curiosity is unauthorized access, even without sharing it, and is auditable and reportable under privacy law and employer policy."
+ },
+ {
+  "id": 481,
+  "domain": "professionalism",
+  "front": "What are the elements of valid informed consent for transfusion?",
+  "back": "The patient must have capacity, receive information on benefits, risks and alternatives, have questions answered, and agree voluntarily. Consent is obtained by the treating clinician, not by the laboratory."
+ },
+ {
+  "id": 482,
+  "domain": "professionalism",
+  "front": "A competent adult patient refuses red cell transfusion on religious grounds. How should the lab respond?",
+  "back": "Respect the refusal. The patient's decision is binding if made with capacity and information. The lab follows the documented order, flags the record per policy and directs concerns to the treating physician."
+ },
+ {
+  "id": 483,
+  "domain": "professionalism",
+  "front": "If a transfusion error or near miss is found, what should the MLT do first?",
+  "back": "Make the patient safe by stopping the issue and notifying the responsible physician or nurse right away. Then document accurately and report through the lab's occurrence system, as the policy requires."
+ },
+ {
+  "id": 484,
+  "domain": "professionalism",
+  "front": "Why does honest disclosure of an error to the clinical team matter more than protecting one's reputation?",
+  "back": "Prompt, accurate disclosure lets clinicians treat the patient and prevents repeat harm. Concealing an error breaches professional duty and can worsen outcomes and discipline."
+ },
+ {
+  "id": 485,
+  "domain": "professionalism",
+  "front": "What makes a report of a transfusion incident a good occurrence report?",
+  "back": "It is factual and objective, with date, time, people and steps involved, and without blame or opinion. A system focus helps the lab find root causes and prevent recurrence."
+ },
+ {
+  "id": 486,
+  "domain": "professionalism",
+  "front": "A physician phones for urgent blood. Which details should you confirm during the call?",
+  "back": "Patient full name and second identifier, product and quantity, urgency, location and a callback number. Read back the request to confirm it, and document who called and when."
+ },
+ {
+  "id": 487,
+  "domain": "professionalism",
+  "front": "What is read back, and why is it used in verbal requests for blood?",
+  "back": "The receiver repeats the request to the caller, who confirms it. It catches mishearing of names, products or numbers, reducing errors in urgent communication."
+ },
+ {
+  "id": 488,
+  "domain": "professionalism",
+  "front": "How should an MLT explain a delay in crossmatching to an anxious clinician?",
+  "back": "Calmly state the reason, for example an antibody workup, give a realistic time estimate, and offer options such as emergency release of uncrossmatched blood under the medical director's authority."
+ },
+ {
+  "id": 489,
+  "domain": "professionalism",
+  "front": "What information belongs in a transfusion service shift handover?",
+  "back": "Pending antibody investigations, units on hold or crossmatched, critical or massive transfusion patients, instrument and inventory issues, and any unresolved quality problems, so work continues safely."
+ },
+ {
+  "id": 490,
+  "domain": "professionalism",
+  "front": "Why is a written or structured handover safer than a casual verbal one at shift change?",
+  "back": "Structured handover reduces omissions and misunderstandings. A checklist or log gives a record, so the incoming technologist does not rely on memory alone."
+ },
+ {
+  "id": 491,
+  "domain": "professionalism",
+  "front": "What should an MLT do when asked to perform a task they have not been trained or deemed competent to do?",
+  "back": "Decline politely, explain the limit, and ask for training or supervision. Working within competence is a professional obligation, and patient safety outranks pressure to be helpful."
+ },
+ {
+  "id": 492,
+  "domain": "professionalism",
+  "front": "When should a technologist escalate a transfusion problem to the supervisor or medical director?",
+  "back": "For unresolved serological problems, suspected transfusion reactions, unusual results, policy deviations or any decision beyond their authority. Escalate early rather than guessing."
+ },
+ {
+  "id": 493,
+  "domain": "professionalism",
+  "front": "What is continuing competence for a regulated MLT?",
+  "back": "Ongoing learning and self-assessment to maintain safe, current practice, usually a college quality assurance program with reflection, learning goals and documentation, as a condition of annual registration."
+ },
+ {
+  "id": 494,
+  "domain": "professionalism",
+  "front": "Give two ways a transfusion technologist can keep knowledge current.",
+  "back": "Attend accredited education sessions or webinars, and review updated standards and guidelines, such as those from Canadian Blood Services or the national transfusion standard. Document the learning for the college program."
+ },
+ {
+  "id": 495,
+  "domain": "professionalism",
+  "front": "What does cultural safety mean in patient care and in donor interactions?",
+  "back": "Interactions where the person feels respected and free of discrimination, with care shaped by their own identity and experience. The patient or donor judges whether safety was achieved, not the provider."
+ },
+ {
+  "id": 496,
+  "domain": "professionalism",
+  "front": "A patient's language barrier affects a transfusion consent question. What is the proper step?",
+  "back": "Inform the clinician so a qualified interpreter can be arranged. Relying on a family member or guessing risks consent that is not truly informed. The lab does not obtain consent itself."
+ },
+ {
+  "id": 497,
+  "domain": "professionalism",
+  "front": "You witness a coworker bypass patient identification checks on a sample. What is the professional duty?",
+  "back": "Report it through the proper channel, such as the supervisor or quality system. Unsafe practice endangers patients, and regulated professionals are obliged to act rather than stay silent."
+ },
+ {
+  "id": 498,
+  "domain": "professionalism",
+  "front": "What is a conflict of interest for a technologist, and what should be done about it?",
+  "back": "A personal interest, such as a gift, financial tie or relationship, that could influence professional judgment. Disclose it to the supervisor and step aside from affected decisions as the policy directs."
+ },
+ {
+  "id": 499,
+  "domain": "evaluation",
+  "front": "What does a positive direct antiglobulin test with IgG on a newborn's cord cells usually mean?",
+  "back": "Maternal IgG antibody has coated the infant's red cells. Common causes are anti-D, anti-A or anti-B and other IgG antibodies, so the finding needs correlation with the mother's antibody screen and the infant's group."
+ },
+ {
+  "id": 500,
+  "domain": "preparation_and_testing",
+  "front": "Why are check cells added after the antiglobulin test shows no agglutination?",
+  "back": "IgG-coated check cells must agglutinate if the washing and the antiglobulin reagent worked. If they stay unreacted, the negative result is invalid and the test must be repeated."
+ }
+]
